@@ -1,14 +1,15 @@
 #!/usr/bin/perl
 
+# author: Jeff Barrett (jb26)
+# maintainer: Dan Rice (dr9)
+
 use strict;
-#use lib '/nfs/users/nfs_j/jb26/lib/perl/lib/site_perl';
-#use lib '/nfs/users/nfs_j/jb26/lib/perl/lib/site_perl/5.8.8/x86_64-linux-thread-multi';
 
 use DateTime::Format::W3CDTF;
 use Time::localtime;
 use MIME::Lite;
 
-my $debug = 1;
+my $debug = 0;
 
 my $lastdate = DateTime->from_epoch(epoch => 0);
 my $datetimeformatter = DateTime::Format::W3CDTF->new;

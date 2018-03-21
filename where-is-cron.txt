@@ -1,3 +1,9 @@
 gen1b, fridays at 15:45
+
+jb26
 # m h  dom mon dow   command
 45 15 * * 5 cd rss2email; perl rss2email.pl
+
+dr9
+# m h  dom mon dow   command
+45 15 * * 5 /nfs/users/nfs_d/dr9/rss2email/rss2email.sh
