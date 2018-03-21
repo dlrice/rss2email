@@ -1,0 +1,3 @@
+gen1b, fridays at 15:45
+# m h  dom mon dow   command
+45 15 * * 5 cd rss2email; perl rss2email.pl

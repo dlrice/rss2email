@@ -1,0 +1,2084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns="http://purl.org/rss/1.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+
+>
+<channel rdf:about="http://www.citeulike.org/about">
+
+
+
+	<title>CiteULike: Group: Journal picks - library </title>
+	<description>CiteULike: Group: Journal picks - library </description>
+
+
+	<link>http://www.citeulike.org/group/10570/library</link>
+	<dc:publisher>CiteULike.org</dc:publisher>
+	<dc:language>en-gb</dc:language>
+	<dc:rights>Copyright &#169; 2004-2011 citeulike.org</dc:rights>
+	<items>
+    <rdf:Seq>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14542957"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14550152"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14550150"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14550148"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14550147"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14550140"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14550137"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14550136"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549679"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549677"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549668"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549656"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549652"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549648"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549641"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549637"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549585"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549583"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549582"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549578"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549197"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14544498"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14544528"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549182"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549181"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549179"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549172"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549170"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14549168"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546284"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546282"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546272"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546271"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546191"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546190"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546189"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546187"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546186"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546182"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546181"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14546180"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14545802"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14545801"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14544530"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14542923"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14542964"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14542962"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14542960"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14542939"/>
+        <rdf:li rdf:resource="http://www.citeulike.org/group/10570/article/14542937"/>
+
+	</rdf:Seq>
+	</items>
+	</channel>
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14542957">
+    <title>Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication</title>
+    <link>http://www.citeulike.org/group/10570/article/14542957</link>
+    <description>&lt;i&gt;Proceedings of the National Academy of Sciences, Vol. 115, No. 11. (13 March 2018), pp. 2557-2560, doi:10.1073/pnas.1715374115&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Marcia McNutt, Monica Bradford, Jeffrey Drazen, Brooks Hanson, Bob Howard, Kathleen Jamieson, Véronique Kiermer, Emilie Marcus, Barbara Pope, Randy Schekman, Sowmya Swaminathan, Peter Stang, Inder Verma&lt;/i&gt;</description>
+    <dc:title>Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication</dc:title>
+
+    <dc:creator>Marcia McNutt</dc:creator>
+    <dc:creator>Monica Bradford</dc:creator>
+    <dc:creator>Jeffrey Drazen</dc:creator>
+    <dc:creator>Brooks Hanson</dc:creator>
+    <dc:creator>Bob Howard</dc:creator>
+    <dc:creator>Kathleen Jamieson</dc:creator>
+    <dc:creator>Véronique Kiermer</dc:creator>
+    <dc:creator>Emilie Marcus</dc:creator>
+    <dc:creator>Barbara Pope</dc:creator>
+    <dc:creator>Randy Schekman</dc:creator>
+    <dc:creator>Sowmya Swaminathan</dc:creator>
+    <dc:creator>Peter Stang</dc:creator>
+    <dc:creator>Inder Verma</dc:creator>
+    <dc:identifier>doi:10.1073/pnas.1715374115</dc:identifier>
+    <dc:source>Proceedings of the National Academy of Sciences, Vol. 115, No. 11. (13 March 2018), pp. 2557-2560, doi:10.1073/pnas.1715374115</dc:source>
+    <dc:date>2018-03-20T11:11:32-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Proceedings of the National Academy of Sciences</prism:publicationName>
+    <prism:issn>0027-8424</prism:issn>
+    <prism:volume>115</prism:volume>
+    <prism:number>11</prism:number>
+    <prism:startingPage>2557</prism:startingPage>
+    <prism:endingPage>2560</prism:endingPage>
+    <prism:category>no-tag</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14550152">
+    <title>Complex Structural Variants Resolved by Short-Read and Long-Read Whole Genome Sequencing in Mendelian Disorders</title>
+    <link>http://www.citeulike.org/group/10570/article/14550152</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Alba Sanchis-Juan, Jonathan Stephens, Courtney French, Nicholas Gleadall, Karyn Mégy, Christopher Penkett, Kathleen Stirrups, Isabelle Delon, Eleanor Dewhurst, Helen Dolling, Marie Erwood, Detelina Grozeva, Gavin Arno, Andrew Webster, Trevor Cole, Topun Austin, Ricardo Garcia Branco, Nihr Nihr BioResource, Willem Ouwehand, Lucy Raymond, Keren Carss&lt;/i&gt;</description>
+    <dc:title>Complex Structural Variants Resolved by Short-Read and Long-Read Whole Genome Sequencing in Mendelian Disorders</dc:title>
+
+    <dc:creator>Alba Sanchis-Juan</dc:creator>
+    <dc:creator>Jonathan Stephens</dc:creator>
+    <dc:creator>Courtney French</dc:creator>
+    <dc:creator>Nicholas Gleadall</dc:creator>
+    <dc:creator>Karyn Mégy</dc:creator>
+    <dc:creator>Christopher Penkett</dc:creator>
+    <dc:creator>Kathleen Stirrups</dc:creator>
+    <dc:creator>Isabelle Delon</dc:creator>
+    <dc:creator>Eleanor Dewhurst</dc:creator>
+    <dc:creator>Helen Dolling</dc:creator>
+    <dc:creator>Marie Erwood</dc:creator>
+    <dc:creator>Detelina Grozeva</dc:creator>
+    <dc:creator>Gavin Arno</dc:creator>
+    <dc:creator>Andrew Webster</dc:creator>
+    <dc:creator>Trevor Cole</dc:creator>
+    <dc:creator>Topun Austin</dc:creator>
+    <dc:creator>Ricardo Garcia Branco</dc:creator>
+    <dc:creator>Nihr Nihr BioResource</dc:creator>
+    <dc:creator>Willem Ouwehand</dc:creator>
+    <dc:creator>Lucy Raymond</dc:creator>
+    <dc:creator>Keren Carss</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-16T10:13:09-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14550150">
+    <title>Ancient Genomics Reveals Four Prehistoric Migration Waves into Southeast Asia</title>
+    <link>http://www.citeulike.org/group/10570/article/14550150</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Hugh McColl, Fernando Racimo, Lasse Vinner, Fabrice Demeter, Uffe Wilken, Victor Moreno Mayar, Andaine Seguin-Orlando, Constanza de la Fuente Castro, Sally Wasef, Ana Prohaska, Ashot Margarayan, Peter de Barros Damgaard, Rasmi Shoocongdej, Viengkeo Souksavatdy, Thongsa Sayavongkhamdy, Mohd Mokhtar Saidin, Supannee Kaewsutthi, Patcharee Lertrit, Huong Nguyen, Hsiao-chun Hung, Thi Minh Tran, Huu Nghia Truong, Shaiful Shahidan, Ketut Wiradnyana, Anne-Marie Bacon, Philippe Duringer, Jean-Luc Ponche, Laura Shackelford, Elise Patole-Edoumba, Anh Tuan Nguyen, Berenice Bellina-Pryce, Jean-Christophe Galipaud, Rebecca Kinaston, Hallie Buckley, Christophe Pottier, Simon Rasmussen, Tom Higham, Robert Foley, Marta Mirazon Lahr, Ludovic Orlando, Martin Sikora, Charles Higham, David Lambert, Eske Willerslev&lt;/i&gt;</description>
+    <dc:title>Ancient Genomics Reveals Four Prehistoric Migration Waves into Southeast Asia</dc:title>
+
+    <dc:creator>Hugh McColl</dc:creator>
+    <dc:creator>Fernando Racimo</dc:creator>
+    <dc:creator>Lasse Vinner</dc:creator>
+    <dc:creator>Fabrice Demeter</dc:creator>
+    <dc:creator>Uffe Wilken</dc:creator>
+    <dc:creator>Victor Moreno Mayar</dc:creator>
+    <dc:creator>Andaine Seguin-Orlando</dc:creator>
+    <dc:creator>Constanza de la Fuente Castro</dc:creator>
+    <dc:creator>Sally Wasef</dc:creator>
+    <dc:creator>Ana Prohaska</dc:creator>
+    <dc:creator>Ashot Margarayan</dc:creator>
+    <dc:creator>Peter de Barros Damgaard</dc:creator>
+    <dc:creator>Rasmi Shoocongdej</dc:creator>
+    <dc:creator>Viengkeo Souksavatdy</dc:creator>
+    <dc:creator>Thongsa Sayavongkhamdy</dc:creator>
+    <dc:creator>Mohd Mokhtar Saidin</dc:creator>
+    <dc:creator>Supannee Kaewsutthi</dc:creator>
+    <dc:creator>Patcharee Lertrit</dc:creator>
+    <dc:creator>Huong Nguyen</dc:creator>
+    <dc:creator>Hsiao-chun Hung</dc:creator>
+    <dc:creator>Thi Minh Tran</dc:creator>
+    <dc:creator>Huu Nghia Truong</dc:creator>
+    <dc:creator>Shaiful Shahidan</dc:creator>
+    <dc:creator>Ketut Wiradnyana</dc:creator>
+    <dc:creator>Anne-Marie Bacon</dc:creator>
+    <dc:creator>Philippe Duringer</dc:creator>
+    <dc:creator>Jean-Luc Ponche</dc:creator>
+    <dc:creator>Laura Shackelford</dc:creator>
+    <dc:creator>Elise Patole-Edoumba</dc:creator>
+    <dc:creator>Anh Tuan Nguyen</dc:creator>
+    <dc:creator>Berenice Bellina-Pryce</dc:creator>
+    <dc:creator>Jean-Christophe Galipaud</dc:creator>
+    <dc:creator>Rebecca Kinaston</dc:creator>
+    <dc:creator>Hallie Buckley</dc:creator>
+    <dc:creator>Christophe Pottier</dc:creator>
+    <dc:creator>Simon Rasmussen</dc:creator>
+    <dc:creator>Tom Higham</dc:creator>
+    <dc:creator>Robert Foley</dc:creator>
+    <dc:creator>Marta Mirazon Lahr</dc:creator>
+    <dc:creator>Ludovic Orlando</dc:creator>
+    <dc:creator>Martin Sikora</dc:creator>
+    <dc:creator>Charles Higham</dc:creator>
+    <dc:creator>David Lambert</dc:creator>
+    <dc:creator>Eske Willerslev</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-16T10:10:13-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14550148">
+    <title>Epithelial control of colonisation by Streptococcus pneumoniae at the human mucosal surface</title>
+    <link>http://www.citeulike.org/group/10570/article/14550148</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Caroline Weight, Cristina Venturini, Sherin Pojar, Simon Jochems, Jesús Reiné, Elissavet Nikolaou, Carla Solorzano, Carl Anderson, Mahdad Noursadeghi, Jeremy Brown, Daniela Ferreira, Robert Heyderman&lt;/i&gt;</description>
+    <dc:title>Epithelial control of colonisation by Streptococcus pneumoniae at the human mucosal surface</dc:title>
+
+    <dc:creator>Caroline Weight</dc:creator>
+    <dc:creator>Cristina Venturini</dc:creator>
+    <dc:creator>Sherin Pojar</dc:creator>
+    <dc:creator>Simon Jochems</dc:creator>
+    <dc:creator>Jesús Reiné</dc:creator>
+    <dc:creator>Elissavet Nikolaou</dc:creator>
+    <dc:creator>Carla Solorzano</dc:creator>
+    <dc:creator>Carl Anderson</dc:creator>
+    <dc:creator>Mahdad Noursadeghi</dc:creator>
+    <dc:creator>Jeremy Brown</dc:creator>
+    <dc:creator>Daniela Ferreira</dc:creator>
+    <dc:creator>Robert Heyderman</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-16T10:04:34-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14550147">
+    <title>Genomic basis for RNA alterations revealed by whole-genome analyses of 27 cancer types</title>
+    <link>http://www.citeulike.org/group/10570/article/14550147</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Claudia Calabrese, Natalie Davidson, Nuno Fonseca, Yao He, André Kahles, Kjong-Van Lehmann, Fenglin Liu, Yuichi Shiraishi, Cameron Soulette, Lara Urban, Deniz Demircioğlu, Liliana Greger, Siliang Li, Dongbing Liu, Marc Perry, Linda Xiang, Fan Zhang, Junjun Zhang, Peter Bailey, Serap Erkek, Katherine Hoadley, Yong Hou, Helena Kilpinen, Jan Korbel, Maximillian Marin, Julia Markowski, Tannistha Nandi, Qiang Pan-Hammarström, Chandra Pedamallu, Reiner Siebert, Stefan Stark, Hong Su, Patrick Tan, Sebastian Waszak, Christina Yung, Shida Zhu, Philip Awadalla, Chad Creighton, Matthew Meyerson, Francis Ouellette, Kui Wu, Huanming Yang, Alvis Brazma, Angela Brooks, Jonathan Göke, Gunnar Rätsch, Roland Schwarz, Oliver Stegle, Zemin Zhang&lt;/i&gt;</description>
+    <dc:title>Genomic basis for RNA alterations revealed by whole-genome analyses of 27 cancer types</dc:title>
+
+    <dc:creator>Claudia Calabrese</dc:creator>
+    <dc:creator>Natalie Davidson</dc:creator>
+    <dc:creator>Nuno Fonseca</dc:creator>
+    <dc:creator>Yao He</dc:creator>
+    <dc:creator>André Kahles</dc:creator>
+    <dc:creator>Kjong-Van Lehmann</dc:creator>
+    <dc:creator>Fenglin Liu</dc:creator>
+    <dc:creator>Yuichi Shiraishi</dc:creator>
+    <dc:creator>Cameron Soulette</dc:creator>
+    <dc:creator>Lara Urban</dc:creator>
+    <dc:creator>Deniz Demircioğlu</dc:creator>
+    <dc:creator>Liliana Greger</dc:creator>
+    <dc:creator>Siliang Li</dc:creator>
+    <dc:creator>Dongbing Liu</dc:creator>
+    <dc:creator>Marc Perry</dc:creator>
+    <dc:creator>Linda Xiang</dc:creator>
+    <dc:creator>Fan Zhang</dc:creator>
+    <dc:creator>Junjun Zhang</dc:creator>
+    <dc:creator>Peter Bailey</dc:creator>
+    <dc:creator>Serap Erkek</dc:creator>
+    <dc:creator>Katherine Hoadley</dc:creator>
+    <dc:creator>Yong Hou</dc:creator>
+    <dc:creator>Helena Kilpinen</dc:creator>
+    <dc:creator>Jan Korbel</dc:creator>
+    <dc:creator>Maximillian Marin</dc:creator>
+    <dc:creator>Julia Markowski</dc:creator>
+    <dc:creator>Tannistha Nandi</dc:creator>
+    <dc:creator>Qiang Pan-Hammarström</dc:creator>
+    <dc:creator>Chandra Pedamallu</dc:creator>
+    <dc:creator>Reiner Siebert</dc:creator>
+    <dc:creator>Stefan Stark</dc:creator>
+    <dc:creator>Hong Su</dc:creator>
+    <dc:creator>Patrick Tan</dc:creator>
+    <dc:creator>Sebastian Waszak</dc:creator>
+    <dc:creator>Christina Yung</dc:creator>
+    <dc:creator>Shida Zhu</dc:creator>
+    <dc:creator>Philip Awadalla</dc:creator>
+    <dc:creator>Chad Creighton</dc:creator>
+    <dc:creator>Matthew Meyerson</dc:creator>
+    <dc:creator>Francis Ouellette</dc:creator>
+    <dc:creator>Kui Wu</dc:creator>
+    <dc:creator>Huanming Yang</dc:creator>
+    <dc:creator>Alvis Brazma</dc:creator>
+    <dc:creator>Angela Brooks</dc:creator>
+    <dc:creator>Jonathan Göke</dc:creator>
+    <dc:creator>Gunnar Rätsch</dc:creator>
+    <dc:creator>Roland Schwarz</dc:creator>
+    <dc:creator>Oliver Stegle</dc:creator>
+    <dc:creator>Zemin Zhang</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-16T10:01:51-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>cancer</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14550140">
+    <title>Metabolomic consequences of genetic inhibition of PCSK9 compared with statin treatment</title>
+    <link>http://www.citeulike.org/group/10570/article/14550140</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Eeva Sliz, Johannes Kettunen, Michael Holmes, Clare Oliver-Williams, Charles Boachie, Qin Wang, Minna Mannikko, Sylvain Sebert, Robin Walters, Kuang Lin, Iona Millwood, Robert Clarke, Liming Lee, Naomi Rankin, Paul Welsh, Christian Delles, Ian Ford, Wouter Jukema, Stella Trompet, Markus Perola, Veikko Salomaa, Marjo-Riitta Jarvelin, Zhengming Chen, Debbie Lawlor, Mika Ala-Korpela, John Danesh, George Davey Smith, Naveed Sattar, Adam Butterworth, Peter Wurtz&lt;/i&gt;</description>
+    <dc:title>Metabolomic consequences of genetic inhibition of PCSK9 compared with statin treatment</dc:title>
+
+    <dc:creator>Eeva Sliz</dc:creator>
+    <dc:creator>Johannes Kettunen</dc:creator>
+    <dc:creator>Michael Holmes</dc:creator>
+    <dc:creator>Clare Oliver-Williams</dc:creator>
+    <dc:creator>Charles Boachie</dc:creator>
+    <dc:creator>Qin Wang</dc:creator>
+    <dc:creator>Minna Mannikko</dc:creator>
+    <dc:creator>Sylvain Sebert</dc:creator>
+    <dc:creator>Robin Walters</dc:creator>
+    <dc:creator>Kuang Lin</dc:creator>
+    <dc:creator>Iona Millwood</dc:creator>
+    <dc:creator>Robert Clarke</dc:creator>
+    <dc:creator>Liming Lee</dc:creator>
+    <dc:creator>Naomi Rankin</dc:creator>
+    <dc:creator>Paul Welsh</dc:creator>
+    <dc:creator>Christian Delles</dc:creator>
+    <dc:creator>Ian Ford</dc:creator>
+    <dc:creator>Wouter Jukema</dc:creator>
+    <dc:creator>Stella Trompet</dc:creator>
+    <dc:creator>Markus Perola</dc:creator>
+    <dc:creator>Veikko Salomaa</dc:creator>
+    <dc:creator>Marjo-Riitta Jarvelin</dc:creator>
+    <dc:creator>Zhengming Chen</dc:creator>
+    <dc:creator>Debbie Lawlor</dc:creator>
+    <dc:creator>Mika Ala-Korpela</dc:creator>
+    <dc:creator>John Danesh</dc:creator>
+    <dc:creator>George Davey Smith</dc:creator>
+    <dc:creator>Naveed Sattar</dc:creator>
+    <dc:creator>Adam Butterworth</dc:creator>
+    <dc:creator>Peter Wurtz</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-16T09:57:25-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14550137">
+    <title>Emergence of carbapenem, beta-lactamase inhibitor and cefoxitin resistant lineages from a background of ESBL-producing Klebsiella pneumoniae and K. quasipneumoniae highlights different evolutionary mechanisms</title>
+    <link>http://www.citeulike.org/group/10570/article/14550137</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Eva Heinz, Hasan Ejaz, Josefin Bartholdson-Scott, Nancy Wang, Shruti Guanjaran, Derek Pickard, Jonathan Wilksch, Hanwei Cao, Ikram ul-Haq, Gordon Dougan, Richard Strugnell&lt;/i&gt;</description>
+    <dc:title>Emergence of carbapenem, beta-lactamase inhibitor and cefoxitin resistant lineages from a background of ESBL-producing Klebsiella pneumoniae and K. quasipneumoniae highlights different evolutionary mechanisms</dc:title>
+
+    <dc:creator>Eva Heinz</dc:creator>
+    <dc:creator>Hasan Ejaz</dc:creator>
+    <dc:creator>Josefin Bartholdson-Scott</dc:creator>
+    <dc:creator>Nancy Wang</dc:creator>
+    <dc:creator>Shruti Guanjaran</dc:creator>
+    <dc:creator>Derek Pickard</dc:creator>
+    <dc:creator>Jonathan Wilksch</dc:creator>
+    <dc:creator>Hanwei Cao</dc:creator>
+    <dc:creator>Ikram ul-Haq</dc:creator>
+    <dc:creator>Gordon Dougan</dc:creator>
+    <dc:creator>Richard Strugnell</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-16T09:55:21-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14550136">
+    <title>Quantifying the impact of public omics data</title>
+    <link>http://www.citeulike.org/group/10570/article/14550136</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Yasset Perez-Riverol, Andrey Zorin, Gaurhari Dass, Mihai Glonț, Juan Vizcaino, Andrew Jarnuczak, Robert Petryszak, Peipei Ping, Henning Hermjakob&lt;/i&gt;</description>
+    <dc:title>Quantifying the impact of public omics data</dc:title>
+
+    <dc:creator>Yasset Perez-Riverol</dc:creator>
+    <dc:creator>Andrey Zorin</dc:creator>
+    <dc:creator>Gaurhari Dass</dc:creator>
+    <dc:creator>Mihai Glonț</dc:creator>
+    <dc:creator>Juan Vizcaino</dc:creator>
+    <dc:creator>Andrew Jarnuczak</dc:creator>
+    <dc:creator>Robert Petryszak</dc:creator>
+    <dc:creator>Peipei Ping</dc:creator>
+    <dc:creator>Henning Hermjakob</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-16T09:51:50-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549679">
+    <title>A history of male migration in and out of the Green Sahara</title>
+    <link>http://www.citeulike.org/group/10570/article/14549679</link>
+    <description>&lt;i&gt;Genome Biology, Vol. 19, No. 1. (13 March 2018), doi:10.1186/s13059-018-1410-8&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Yali Xue&lt;/i&gt;</description>
+    <dc:title>A history of male migration in and out of the Green Sahara</dc:title>
+
+    <dc:creator>Yali Xue</dc:creator>
+    <dc:identifier>doi:10.1186/s13059-018-1410-8</dc:identifier>
+    <dc:source>Genome Biology, Vol. 19, No. 1. (13 March 2018), doi:10.1186/s13059-018-1410-8</dc:source>
+    <dc:date>2018-03-15T13:55:05-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Genome Biology</prism:publicationName>
+    <prism:issn>1474-760X</prism:issn>
+    <prism:volume>19</prism:volume>
+    <prism:number>1</prism:number>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549677">
+    <title>SvABA: genome-wide detection of structural variants and indels by local assembly</title>
+    <link>http://www.citeulike.org/group/10570/article/14549677</link>
+    <description>&lt;i&gt;Genome Research (13 March 2018), doi:10.1101/gr.221028.117&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Jeremiah Wala, Pratiti Bandopadhayay, Noah Greenwald, Ryan O&#39;Rourke, Ted Sharpe, Chip Stewart, Steve Schumacher, Yilong Li, Joachim Weischenfeldt, Xiaotong Yao, Chad Nusbaum, Peter Campbell, Gad Getz, Matthew Meyerson, Cheng-Zhong Zhang, Marcin Imielinski, Rameen Beroukhim&lt;/i&gt;</description>
+    <dc:title>SvABA: genome-wide detection of structural variants and indels by local assembly</dc:title>
+
+    <dc:creator>Jeremiah Wala</dc:creator>
+    <dc:creator>Pratiti Bandopadhayay</dc:creator>
+    <dc:creator>Noah Greenwald</dc:creator>
+    <dc:creator>Ryan O'Rourke</dc:creator>
+    <dc:creator>Ted Sharpe</dc:creator>
+    <dc:creator>Chip Stewart</dc:creator>
+    <dc:creator>Steve Schumacher</dc:creator>
+    <dc:creator>Yilong Li</dc:creator>
+    <dc:creator>Joachim Weischenfeldt</dc:creator>
+    <dc:creator>Xiaotong Yao</dc:creator>
+    <dc:creator>Chad Nusbaum</dc:creator>
+    <dc:creator>Peter Campbell</dc:creator>
+    <dc:creator>Gad Getz</dc:creator>
+    <dc:creator>Matthew Meyerson</dc:creator>
+    <dc:creator>Cheng-Zhong Zhang</dc:creator>
+    <dc:creator>Marcin Imielinski</dc:creator>
+    <dc:creator>Rameen Beroukhim</dc:creator>
+    <dc:identifier>doi:10.1101/gr.221028.117</dc:identifier>
+    <dc:source>Genome Research (13 March 2018), doi:10.1101/gr.221028.117</dc:source>
+    <dc:date>2018-03-15T13:51:29-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Genome Research</prism:publicationName>
+    <prism:issn>1088-9051</prism:issn>
+    <prism:category>cancer</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549668">
+    <title>Transcriptomic profiling of nematode parasites surviving vaccine exposure</title>
+    <link>http://www.citeulike.org/group/10570/article/14549668</link>
+    <description>&lt;i&gt;International Journal for Parasitology (March 2018), doi:10.1016/j.ijpara.2018.01.004&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Guillaume Sallé, Roz Laing, James Cotton, Kirsty Maitland, Axel Martinelli, Nancy Holroyd, Alan Tracey, Matthew Berriman, David Smith, George Newlands, Eve Hanks, Eileen Devaney, Collette Britton&lt;/i&gt;</description>
+    <dc:title>Transcriptomic profiling of nematode parasites surviving vaccine exposure</dc:title>
+
+    <dc:creator>Guillaume Sallé</dc:creator>
+    <dc:creator>Roz Laing</dc:creator>
+    <dc:creator>James Cotton</dc:creator>
+    <dc:creator>Kirsty Maitland</dc:creator>
+    <dc:creator>Axel Martinelli</dc:creator>
+    <dc:creator>Nancy Holroyd</dc:creator>
+    <dc:creator>Alan Tracey</dc:creator>
+    <dc:creator>Matthew Berriman</dc:creator>
+    <dc:creator>David Smith</dc:creator>
+    <dc:creator>George Newlands</dc:creator>
+    <dc:creator>Eve Hanks</dc:creator>
+    <dc:creator>Eileen Devaney</dc:creator>
+    <dc:creator>Collette Britton</dc:creator>
+    <dc:identifier>doi:10.1016/j.ijpara.2018.01.004</dc:identifier>
+    <dc:source>International Journal for Parasitology (March 2018), doi:10.1016/j.ijpara.2018.01.004</dc:source>
+    <dc:date>2018-03-15T13:41:54-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>International Journal for Parasitology</prism:publicationName>
+    <prism:issn>00207519</prism:issn>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549656">
+    <title>Placentation defects are highly prevalent in embryonic lethal mouse mutants</title>
+    <link>http://www.citeulike.org/group/10570/article/14549656</link>
+    <description>&lt;i&gt;Nature (14 March 2018), doi:10.1038/nature26002&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Vicente Perez-Garcia, Elena Fineberg, Robert Wilson, Alexander Murray, Cecilia Mazzeo, Catherine Tudor, Arnold Sienerth, Jacqueline White, Elizabeth Tuck, Edward Ryder, Diane Gleeson, Emma Siragher, Hannah Wardle-Jones, Nicole Staudt, Neha Wali, John Collins, Stefan Geyer, Elisabeth Busch-Nentwich, Antonella Galli, James Smith, Elizabeth Robertson, David Adams, Wolfgang Weninger, Timothy Mohun, Myriam Hemberger&lt;/i&gt;</description>
+    <dc:title>Placentation defects are highly prevalent in embryonic lethal mouse mutants</dc:title>
+
+    <dc:creator>Vicente Perez-Garcia</dc:creator>
+    <dc:creator>Elena Fineberg</dc:creator>
+    <dc:creator>Robert Wilson</dc:creator>
+    <dc:creator>Alexander Murray</dc:creator>
+    <dc:creator>Cecilia Mazzeo</dc:creator>
+    <dc:creator>Catherine Tudor</dc:creator>
+    <dc:creator>Arnold Sienerth</dc:creator>
+    <dc:creator>Jacqueline White</dc:creator>
+    <dc:creator>Elizabeth Tuck</dc:creator>
+    <dc:creator>Edward Ryder</dc:creator>
+    <dc:creator>Diane Gleeson</dc:creator>
+    <dc:creator>Emma Siragher</dc:creator>
+    <dc:creator>Hannah Wardle-Jones</dc:creator>
+    <dc:creator>Nicole Staudt</dc:creator>
+    <dc:creator>Neha Wali</dc:creator>
+    <dc:creator>John Collins</dc:creator>
+    <dc:creator>Stefan Geyer</dc:creator>
+    <dc:creator>Elisabeth Busch-Nentwich</dc:creator>
+    <dc:creator>Antonella Galli</dc:creator>
+    <dc:creator>James Smith</dc:creator>
+    <dc:creator>Elizabeth Robertson</dc:creator>
+    <dc:creator>David Adams</dc:creator>
+    <dc:creator>Wolfgang Weninger</dc:creator>
+    <dc:creator>Timothy Mohun</dc:creator>
+    <dc:creator>Myriam Hemberger</dc:creator>
+    <dc:identifier>doi:10.1038/nature26002</dc:identifier>
+    <dc:source>Nature (14 March 2018), doi:10.1038/nature26002</dc:source>
+    <dc:date>2018-03-15T13:27:45-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Nature</prism:publicationName>
+    <prism:issn>0028-0836</prism:issn>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549652">
+    <title>PlasmidTron: assembling the cause of phenotypes and genotypes from NGS data</title>
+    <link>http://www.citeulike.org/group/10570/article/14549652</link>
+    <description>&lt;i&gt;Microbial Genomics (12 March 2018), doi:10.1099/mgen.0.000164&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Andrew Page, Alexander Wailan, Yan Shao, Kim Judge, Gordon Dougan, Elizabeth Klemm, Nicholas Thomson, Jacqueline Keane&lt;/i&gt;</description>
+    <dc:title>PlasmidTron: assembling the cause of phenotypes and genotypes from NGS data</dc:title>
+
+    <dc:creator>Andrew Page</dc:creator>
+    <dc:creator>Alexander Wailan</dc:creator>
+    <dc:creator>Yan Shao</dc:creator>
+    <dc:creator>Kim Judge</dc:creator>
+    <dc:creator>Gordon Dougan</dc:creator>
+    <dc:creator>Elizabeth Klemm</dc:creator>
+    <dc:creator>Nicholas Thomson</dc:creator>
+    <dc:creator>Jacqueline Keane</dc:creator>
+    <dc:identifier>doi:10.1099/mgen.0.000164</dc:identifier>
+    <dc:source>Microbial Genomics (12 March 2018), doi:10.1099/mgen.0.000164</dc:source>
+    <dc:date>2018-03-15T13:20:10-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Microbial Genomics</prism:publicationName>
+    <prism:issn>2057-5858</prism:issn>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549648">
+    <title>Multiplex genomewide association analysis of breast milk fatty acid composition extends the phenotypic association and potential selection of FADS1 variants to arachidonic acid, a critical infant micronutrient</title>
+    <link>http://www.citeulike.org/group/10570/article/14549648</link>
+    <description>&lt;i&gt;Journal of Medical Genetics (07 March 2018), jmedgenet-2017-105134, doi:10.1136/jmedgenet-2017-105134&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Josyf Mychaleckyj, Uma Nayak, Ross Colgate, Dadong Zhang, Tommy Carstensen, Shahnawaz Ahmed, Tahmeed Ahmed, Alexander Mentzer, Masud Alam, Beth Kirkpatrick, Rashidul Haque, Abu Syed Golam Faruque, William Petri&lt;/i&gt;</description>
+    <dc:title>Multiplex genomewide association analysis of breast milk fatty acid composition extends the phenotypic association and potential selection of FADS1 variants to arachidonic acid, a critical infant micronutrient</dc:title>
+
+    <dc:creator>Josyf Mychaleckyj</dc:creator>
+    <dc:creator>Uma Nayak</dc:creator>
+    <dc:creator>Ross Colgate</dc:creator>
+    <dc:creator>Dadong Zhang</dc:creator>
+    <dc:creator>Tommy Carstensen</dc:creator>
+    <dc:creator>Shahnawaz Ahmed</dc:creator>
+    <dc:creator>Tahmeed Ahmed</dc:creator>
+    <dc:creator>Alexander Mentzer</dc:creator>
+    <dc:creator>Masud Alam</dc:creator>
+    <dc:creator>Beth Kirkpatrick</dc:creator>
+    <dc:creator>Rashidul Haque</dc:creator>
+    <dc:creator>Abu Syed Golam Faruque</dc:creator>
+    <dc:creator>William Petri</dc:creator>
+    <dc:identifier>doi:10.1136/jmedgenet-2017-105134</dc:identifier>
+    <dc:source>Journal of Medical Genetics (07 March 2018), jmedgenet-2017-105134, doi:10.1136/jmedgenet-2017-105134</dc:source>
+    <dc:date>2018-03-15T13:15:25-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Journal of Medical Genetics</prism:publicationName>
+    <prism:issn>1468-6244</prism:issn>
+    <prism:startingPage>jmedgenet-2017-105134</prism:startingPage>
+    <prism:publisher>BMJ Publishing Group Ltd</prism:publisher>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549641">
+    <title>Society and personal genome data</title>
+    <link>http://www.citeulike.org/group/10570/article/14549641</link>
+    <description>&lt;i&gt;Human Molecular Genetics (07 March 2018), doi:10.1093/hmg/ddy084&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Anna Middleton&lt;/i&gt;</description>
+    <dc:title>Society and personal genome data</dc:title>
+
+    <dc:creator>Anna Middleton</dc:creator>
+    <dc:identifier>doi:10.1093/hmg/ddy084</dc:identifier>
+    <dc:source>Human Molecular Genetics (07 March 2018), doi:10.1093/hmg/ddy084</dc:source>
+    <dc:date>2018-03-15T13:07:24-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Human Molecular Genetics</prism:publicationName>
+    <prism:issn>0964-6906</prism:issn>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549637">
+    <title>Ancient pathogen DNA in human teeth and petrous bones</title>
+    <link>http://www.citeulike.org/group/10570/article/14549637</link>
+    <description>&lt;i&gt;Ecol Evol, pp. n/a-n/a, doi:10.1002/ece3.3924&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Recent ancient DNA (aDNA) studies of human pathogens have provided invaluable insights into their evolutionary history and prevalence in space and time. Most of these studies were based on DNA extracted from teeth or postcranial bones. In contrast, no pathogen DNA has been reported from the petrous bone which has become the most desired skeletal element in ancient DNA research due to its high endogenous DNA content. To compare the potential for pathogenic aDNA retrieval from teeth and petrous bones, we sampled these elements from five ancient skeletons, previously shown to be carrying Yersinia pestis. Based on shotgun sequencing data, four of these five plague victims showed clearly detectable levels of Y. pestis DNA in the teeth, whereas all the petrous bones failed to produce Y. pestis DNA above baseline levels. A broader comparative metagenomic analysis of teeth and petrous bones from 10 historical skeletons corroborated these results, showing a much higher microbial diversity in teeth than petrous bones, including pathogenic and oral microbial taxa. Our results imply that although petrous bones are highly valuable for ancient genomic analyses as an excellent source of endogenous DNA, the metagenomic potential of these dense skeletal elements is highly limited. This trade-off must be considered when designing the sampling strategy for an aDNA project.&lt;br /&gt;&lt;i&gt;Ashot Margaryan, Henrik Hansen, Simon Rasmussen, Martin Sikora, Vyacheslav Moiseyev, Alexandr Khoklov, Andrey Epimakhov, Levon Yepiskoposyan, Aivar Kriiska, Liivi Varul, Lehti Saag, Niels Lynnerup, Eske Willerslev, Morten Allentoft&lt;/i&gt;</description>
+    <dc:title>Ancient pathogen DNA in human teeth and petrous bones</dc:title>
+
+    <dc:creator>Ashot Margaryan</dc:creator>
+    <dc:creator>Henrik Hansen</dc:creator>
+    <dc:creator>Simon Rasmussen</dc:creator>
+    <dc:creator>Martin Sikora</dc:creator>
+    <dc:creator>Vyacheslav Moiseyev</dc:creator>
+    <dc:creator>Alexandr Khoklov</dc:creator>
+    <dc:creator>Andrey Epimakhov</dc:creator>
+    <dc:creator>Levon Yepiskoposyan</dc:creator>
+    <dc:creator>Aivar Kriiska</dc:creator>
+    <dc:creator>Liivi Varul</dc:creator>
+    <dc:creator>Lehti Saag</dc:creator>
+    <dc:creator>Niels Lynnerup</dc:creator>
+    <dc:creator>Eske Willerslev</dc:creator>
+    <dc:creator>Morten Allentoft</dc:creator>
+    <dc:identifier>doi:10.1002/ece3.3924</dc:identifier>
+    <dc:source>Ecol Evol, pp. n/a-n/a, doi:10.1002/ece3.3924</dc:source>
+    <dc:date>2018-03-15T12:58:37-00:00</dc:date>
+    <prism:publicationName>Ecol Evol</prism:publicationName>
+    <prism:startingPage>n/a</prism:startingPage>
+    <prism:endingPage>n/a</prism:endingPage>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549585">
+    <title>Multiancestry genome-wide association study of 520,000 subjects identifies 32 loci associated with stroke and stroke subtypes</title>
+    <link>http://www.citeulike.org/group/10570/article/14549585</link>
+    <description>&lt;i&gt;Nature Genetics (12 March 2018), doi:10.1038/s41588-018-0058-3&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Rainer Malik, Ganesh Chauhan, Matthew Traylor, Muralidharan Sargurupremraj, Yukinori Okada, Aniket Mishra, Loes Rutten-Jacobs, Anne-Katrin Giese, Sander van der Laan, Solveig Gretarsdottir, Christopher Anderson, Michael Chong, Hieab Adams, Tetsuro Ago, Peter Almgren, Philippe Amouyel, Hakan Ay, Traci Bartz, Oscar Benavente, Steve Bevan, Giorgio Boncoraglio, Robert Brown, Adam Butterworth, Caty Carrera, Cara Carty, Daniel Chasman, Wei-Min Chen, John Cole, Adolfo Correa, Ioana Cotlarciuc, Carlos Cruchaga, John Danesh, Paul de Bakker, Anita DeStefano, Marcel den Hoed, Qing Duan, Stefan Engelter, Guido Falcone, Rebecca Gottesman, Raji Grewal, Vilmundur Gudnason, Stefan Gustafsson, Jeffrey Haessler, Tamara Harris, Ahamad Hassan, Aki Havulinna, Susan Heckbert, Elizabeth Holliday, George Howard, Fang-Chi Hsu, Hyacinth Hyacinth, Arfan Ikram, Erik Ingelsson, Marguerite Irvin, Xueqiu Jian, Jordi Jiménez-Conde, Julie Johnson, Wouter Jukema, Masahiro Kanai, Keith Keene, Brett Kissela, Dawn Kleindorfer, Charles Kooperberg, Michiaki Kubo, Leslie Lange, Carl Langefeld, Claudia Langenberg, Lenore Launer, Jin-Moo Lee, Robin Lemmens, Didier Leys, Cathryn Lewis, Wei-Yu Lin, Arne Lindgren, Erik Lorentzen, Patrik Magnusson, Jane Maguire, Ani Manichaikul, Patrick McArdle, James Meschia, Braxton Mitchell, Thomas Mosley, Michael Nalls, Toshiharu Ninomiya, Martin O’Donnell, Bruce Psaty, Sara Pulit, Kristiina Rannikmäe, Alexander Reiner, Kathryn Rexrode, Kenneth Rice, Stephen Rich, Paul Ridker, Natalia Rost, Peter Rothwell, Jerome Rotter, Tatjana Rundek, Ralph Sacco, Saori Sakaue, Michele Sale, Veikko Salomaa, Bishwa Sapkota, Reinhold Schmidt, Carsten Schmidt, Ulf Schminke, Pankaj Sharma, Agnieszka Slowik, Cathie Sudlow, Christian Tanislav, Turgut Tatlisumak, Kent Taylor, Vincent Thijs, Gudmar Thorleifsson, Unnur Thorsteinsdottir, Steffen Tiedt, Stella Trompet, Christophe Tzourio, Cornelia van Duijn, Matthew Walters, Nicholas Wareham, Sylvia Wassertheil-Smoller, James Wilson, Kerri Wiggins, Qiong Yang, Salim Yusuf, Joshua Bis, Tomi Pastinen, Arno Ruusalepp, Eric Schadt, Simon Koplev, Johan Björkegren, Veronica Codoni, Mete Civelek, Nicholas Smith, David Trégouët, Ingrid Christophersen, Carolina Roselli, Steven Lubitz, Patrick Ellinor, Shyong Tai, Jaspal Kooner, Norihiro Kato, Jiang He, Pim van der Harst, Paul Elliott, John Chambers, Fumihiko Takeuchi, Andrew Johnson, Dharambir Sanghera, Olle Melander, Christina Jern, Daniel Strbian, Israel Fernandez-Cadenas, WT Longstreth, Arndt Rolfs, Jun Hata, Daniel Woo, Jonathan Rosand, Guillaume Pare, Jemma Hopewell, Danish Saleheen, Kari Stefansson, Bradford Worrall, Steven Kittner, Sudha Seshadri, Myriam Fornage, Hugh Markus, Joanna Howson, Yoichiro Kamatani, Stephanie Debette, Martin Dichgans, Rainer Malik, Ganesh Chauhan, Matthew Traylor, Muralidharan Sargurupremraj, Yukinori Okada, Aniket Mishra, Loes Rutten-Jacobs, Anne-Katrin Giese, Sander van der Laan, Solveig Gretarsdottir, Christopher Anderson, Michael Chong, Hieab Adams, Tetsuro Ago, Peter Almgren, Philippe Amouyel, Hakan Ay, Traci Bartz, Oscar Benavente, Steve Bevan, Giorgio Boncoraglio, Robert Brown, Adam Butterworth, Caty Carrera, Cara Carty, Daniel Chasman, Wei-Min Chen, John Cole, Adolfo Correa, Ioana Cotlarciuc, Carlos Cruchaga, John Danesh, Paul de Bakker, Anita DeStefano, Marcel Hoed, Qing Duan, Stefan Engelter, Guido Falcone, Rebecca Gottesman, Raji Grewal, Vilmundur Gudnason, Stefan Gustafsson, Jeffrey Haessler, Tamara Harris, Ahamad Hassan, Aki Havulinna, Susan Heckbert, Elizabeth Holliday, George Howard, Fang-Chi Hsu, Hyacinth Hyacinth, Arfan Ikram, Erik Ingelsson, Marguerite Irvin, Xueqiu Jian, Jordi Jiménez-Conde, Julie Johnson, Wouter Jukema, Masahiro Kanai, Keith Keene, Brett Kissela, Dawn Kleindorfer, Charles Kooperberg, Michiaki Kubo, Leslie Lange, Carl Langefeld, Claudia Langenberg, Lenore Launer, Jin-Moo Lee, Robin Lemmens, Didier Leys, Cathryn Lewis, Wei-Yu Lin, Arne Lindgren, Erik Lorentzen, Patrik Magnusson, Jane Maguire, Ani Manichaikul, Patrick McArdle, James Meschia, Braxton Mitchell, Thomas Mosley, Michael Nalls, Toshiharu Ninomiya, Martin O’Donnell, Bruce Psaty, Sara Pulit, Kristiina Rannikmäe, Alexander Reiner, Kathryn Rexrode, Kenneth Rice, Stephen Rich, Paul Ridker, Natalia Rost, Peter Rothwell, Jerome Rotter, Tatjana Rundek, Ralph Sacco, Saori Sakaue, Michele Sale, Veikko Salomaa, Bishwa Sapkota, Reinhold Schmidt, Carsten Schmidt, Ulf Schminke, Pankaj Sharma, Agnieszka Slowik, Cathie Sudlow, Christian Tanislav, Turgut Tatlisumak, Kent Taylor, Vincent Thijs, Gudmar Thorleifsson, Unnur Thorsteinsdottir, Steffen Tiedt, Stella Trompet, Christophe Tzourio, Cornelia van Duijn, Matthew Walters, Nicholas Wareham, Sylvia Wassertheil-Smoller, James Wilson, Kerri Wiggins, Qiong Yang, Salim Yusuf, Najaf Amin, Hugo Aparicio, Donna Arnett, John Attia, Alexa Beiser, Claudine Berr, Julie Buring, Mariana Bustamante, Valeria Caso, Yu-Ching Cheng, Seung Choi, Ayesha Chowhan, Natalia Cullell, Jean-François Dartigues, Hossein Delavaran, Pilar Delgado, Marcus Dörr, Gunnar Engström, Ian Ford, Wander Gurpreet, Anders Hamsten, Laura Heitsch, Atsushi Hozawa, Laura Ibanez, Andreea Ilinca, Martin Ingelsson, Motoki Iwasaki, Rebecca Jackson, Katarina Jood, Pekka Jousilahti, Sara Kaffashian, Lalit Kalra, Masahiro Kamouchi, Takanari Kitazono, Olafur Kjartansson, Manja Kloss, Peter Koudstaal, Jerzy Krupinski, Daniel Labovitz, Cathy Laurie, Christopher Levi, Linxin Li, Lars Lind, Cecilia Lindgren, Vasileios Lioutas, Yong Liu, Oscar Lopez, Hirata Makoto, Nicolas Martinez-Majander, Koichi Matsuda, Naoko Minegishi, Joan Montaner, Andrew Morris, Elena Muiño, Martina Müller-Nurasyid, Bo Norrving, Soichi Ogishima, Eugenio Parati, Leema Peddareddygari, Nancy Pedersen, Joanna Pera, Markus Perola, Alessandro Pezzini, Silvana Pileggi, Raquel Rabionet, Iolanda Riba-Llena, Marta Ribasés, Jose Romero, Jaume Roquer, Anthony Rudd, Antti-Pekka Sarin, Ralhan Sarju, Chloe Sarnowski, Makoto Sasaki, Claudia Satizabal, Mamoru Satoh, Naveed Sattar, Norie Sawada, Gerli Sibolt, Ásgeir Sigurdsson, Albert Smith, Kenji Sobue, Carolina Soriano-Tárraga, Tara Stanne, Colin Stine, David Stott, Konstantin Strauch, Takako Takai, Hideo Tanaka, Kozo Tanno, Alexander Teumer, Liisa Tomppo, Nuria Torres-Aguila, Emmanuel Touze, Shoichiro Tsugane, Andre Uitterlinden, Einar Valdimarsson, Sven van der Lee, Henry Völzke, Kenji Wakai, David Weir, Stephen Williams, Charles Wolfe, Quenna Wong, Huichun Xu, Taiki Yamaji, Dharambir Sanghera, Olle Melander, Christina Jern, Daniel Strbian, Israel Fernandez-Cadenas, WT Longstreth, Arndt Rolfs, Jun Hata, Daniel Woo, Jonathan Rosand, Guillaume Pare, Jemma Hopewell, Danish Saleheen, Kari Stefansson, Bradford Worrall, Steven Kittner, Sudha Seshadri, Myriam Fornage, Hugh Markus, Joanna Howson, Yoichiro Kamatani, Stephanie Debette, Martin Dichgans&lt;/i&gt;</description>
+    <dc:title>Multiancestry genome-wide association study of 520,000 subjects identifies 32 loci associated with stroke and stroke subtypes</dc:title>
+
+    <dc:creator>Rainer Malik</dc:creator>
+    <dc:creator>Ganesh Chauhan</dc:creator>
+    <dc:creator>Matthew Traylor</dc:creator>
+    <dc:creator>Muralidharan Sargurupremraj</dc:creator>
+    <dc:creator>Yukinori Okada</dc:creator>
+    <dc:creator>Aniket Mishra</dc:creator>
+    <dc:creator>Loes Rutten-Jacobs</dc:creator>
+    <dc:creator>Anne-Katrin Giese</dc:creator>
+    <dc:creator>Sander van der Laan</dc:creator>
+    <dc:creator>Solveig Gretarsdottir</dc:creator>
+    <dc:creator>Christopher Anderson</dc:creator>
+    <dc:creator>Michael Chong</dc:creator>
+    <dc:creator>Hieab Adams</dc:creator>
+    <dc:creator>Tetsuro Ago</dc:creator>
+    <dc:creator>Peter Almgren</dc:creator>
+    <dc:creator>Philippe Amouyel</dc:creator>
+    <dc:creator>Hakan Ay</dc:creator>
+    <dc:creator>Traci Bartz</dc:creator>
+    <dc:creator>Oscar Benavente</dc:creator>
+    <dc:creator>Steve Bevan</dc:creator>
+    <dc:creator>Giorgio Boncoraglio</dc:creator>
+    <dc:creator>Robert Brown</dc:creator>
+    <dc:creator>Adam Butterworth</dc:creator>
+    <dc:creator>Caty Carrera</dc:creator>
+    <dc:creator>Cara Carty</dc:creator>
+    <dc:creator>Daniel Chasman</dc:creator>
+    <dc:creator>Wei-Min Chen</dc:creator>
+    <dc:creator>John Cole</dc:creator>
+    <dc:creator>Adolfo Correa</dc:creator>
+    <dc:creator>Ioana Cotlarciuc</dc:creator>
+    <dc:creator>Carlos Cruchaga</dc:creator>
+    <dc:creator>John Danesh</dc:creator>
+    <dc:creator>Paul de Bakker</dc:creator>
+    <dc:creator>Anita DeStefano</dc:creator>
+    <dc:creator>Marcel den Hoed</dc:creator>
+    <dc:creator>Qing Duan</dc:creator>
+    <dc:creator>Stefan Engelter</dc:creator>
+    <dc:creator>Guido Falcone</dc:creator>
+    <dc:creator>Rebecca Gottesman</dc:creator>
+    <dc:creator>Raji Grewal</dc:creator>
+    <dc:creator>Vilmundur Gudnason</dc:creator>
+    <dc:creator>Stefan Gustafsson</dc:creator>
+    <dc:creator>Jeffrey Haessler</dc:creator>
+    <dc:creator>Tamara Harris</dc:creator>
+    <dc:creator>Ahamad Hassan</dc:creator>
+    <dc:creator>Aki Havulinna</dc:creator>
+    <dc:creator>Susan Heckbert</dc:creator>
+    <dc:creator>Elizabeth Holliday</dc:creator>
+    <dc:creator>George Howard</dc:creator>
+    <dc:creator>Fang-Chi Hsu</dc:creator>
+    <dc:creator>Hyacinth Hyacinth</dc:creator>
+    <dc:creator>Arfan Ikram</dc:creator>
+    <dc:creator>Erik Ingelsson</dc:creator>
+    <dc:creator>Marguerite Irvin</dc:creator>
+    <dc:creator>Xueqiu Jian</dc:creator>
+    <dc:creator>Jordi Jiménez-Conde</dc:creator>
+    <dc:creator>Julie Johnson</dc:creator>
+    <dc:creator>Wouter Jukema</dc:creator>
+    <dc:creator>Masahiro Kanai</dc:creator>
+    <dc:creator>Keith Keene</dc:creator>
+    <dc:creator>Brett Kissela</dc:creator>
+    <dc:creator>Dawn Kleindorfer</dc:creator>
+    <dc:creator>Charles Kooperberg</dc:creator>
+    <dc:creator>Michiaki Kubo</dc:creator>
+    <dc:creator>Leslie Lange</dc:creator>
+    <dc:creator>Carl Langefeld</dc:creator>
+    <dc:creator>Claudia Langenberg</dc:creator>
+    <dc:creator>Lenore Launer</dc:creator>
+    <dc:creator>Jin-Moo Lee</dc:creator>
+    <dc:creator>Robin Lemmens</dc:creator>
+    <dc:creator>Didier Leys</dc:creator>
+    <dc:creator>Cathryn Lewis</dc:creator>
+    <dc:creator>Wei-Yu Lin</dc:creator>
+    <dc:creator>Arne Lindgren</dc:creator>
+    <dc:creator>Erik Lorentzen</dc:creator>
+    <dc:creator>Patrik Magnusson</dc:creator>
+    <dc:creator>Jane Maguire</dc:creator>
+    <dc:creator>Ani Manichaikul</dc:creator>
+    <dc:creator>Patrick McArdle</dc:creator>
+    <dc:creator>James Meschia</dc:creator>
+    <dc:creator>Braxton Mitchell</dc:creator>
+    <dc:creator>Thomas Mosley</dc:creator>
+    <dc:creator>Michael Nalls</dc:creator>
+    <dc:creator>Toshiharu Ninomiya</dc:creator>
+    <dc:creator>Martin O’Donnell</dc:creator>
+    <dc:creator>Bruce Psaty</dc:creator>
+    <dc:creator>Sara Pulit</dc:creator>
+    <dc:creator>Kristiina Rannikmäe</dc:creator>
+    <dc:creator>Alexander Reiner</dc:creator>
+    <dc:creator>Kathryn Rexrode</dc:creator>
+    <dc:creator>Kenneth Rice</dc:creator>
+    <dc:creator>Stephen Rich</dc:creator>
+    <dc:creator>Paul Ridker</dc:creator>
+    <dc:creator>Natalia Rost</dc:creator>
+    <dc:creator>Peter Rothwell</dc:creator>
+    <dc:creator>Jerome Rotter</dc:creator>
+    <dc:creator>Tatjana Rundek</dc:creator>
+    <dc:creator>Ralph Sacco</dc:creator>
+    <dc:creator>Saori Sakaue</dc:creator>
+    <dc:creator>Michele Sale</dc:creator>
+    <dc:creator>Veikko Salomaa</dc:creator>
+    <dc:creator>Bishwa Sapkota</dc:creator>
+    <dc:creator>Reinhold Schmidt</dc:creator>
+    <dc:creator>Carsten Schmidt</dc:creator>
+    <dc:creator>Ulf Schminke</dc:creator>
+    <dc:creator>Pankaj Sharma</dc:creator>
+    <dc:creator>Agnieszka Slowik</dc:creator>
+    <dc:creator>Cathie Sudlow</dc:creator>
+    <dc:creator>Christian Tanislav</dc:creator>
+    <dc:creator>Turgut Tatlisumak</dc:creator>
+    <dc:creator>Kent Taylor</dc:creator>
+    <dc:creator>Vincent Thijs</dc:creator>
+    <dc:creator>Gudmar Thorleifsson</dc:creator>
+    <dc:creator>Unnur Thorsteinsdottir</dc:creator>
+    <dc:creator>Steffen Tiedt</dc:creator>
+    <dc:creator>Stella Trompet</dc:creator>
+    <dc:creator>Christophe Tzourio</dc:creator>
+    <dc:creator>Cornelia van Duijn</dc:creator>
+    <dc:creator>Matthew Walters</dc:creator>
+    <dc:creator>Nicholas Wareham</dc:creator>
+    <dc:creator>Sylvia Wassertheil-Smoller</dc:creator>
+    <dc:creator>James Wilson</dc:creator>
+    <dc:creator>Kerri Wiggins</dc:creator>
+    <dc:creator>Qiong Yang</dc:creator>
+    <dc:creator>Salim Yusuf</dc:creator>
+    <dc:creator>Joshua Bis</dc:creator>
+    <dc:creator>Tomi Pastinen</dc:creator>
+    <dc:creator>Arno Ruusalepp</dc:creator>
+    <dc:creator>Eric Schadt</dc:creator>
+    <dc:creator>Simon Koplev</dc:creator>
+    <dc:creator>Johan Björkegren</dc:creator>
+    <dc:creator>Veronica Codoni</dc:creator>
+    <dc:creator>Mete Civelek</dc:creator>
+    <dc:creator>Nicholas Smith</dc:creator>
+    <dc:creator>David Trégouët</dc:creator>
+    <dc:creator>Ingrid Christophersen</dc:creator>
+    <dc:creator>Carolina Roselli</dc:creator>
+    <dc:creator>Steven Lubitz</dc:creator>
+    <dc:creator>Patrick Ellinor</dc:creator>
+    <dc:creator>Shyong Tai</dc:creator>
+    <dc:creator>Jaspal Kooner</dc:creator>
+    <dc:creator>Norihiro Kato</dc:creator>
+    <dc:creator>Jiang He</dc:creator>
+    <dc:creator>Pim van der Harst</dc:creator>
+    <dc:creator>Paul Elliott</dc:creator>
+    <dc:creator>John Chambers</dc:creator>
+    <dc:creator>Fumihiko Takeuchi</dc:creator>
+    <dc:creator>Andrew Johnson</dc:creator>
+    <dc:creator>Dharambir Sanghera</dc:creator>
+    <dc:creator>Olle Melander</dc:creator>
+    <dc:creator>Christina Jern</dc:creator>
+    <dc:creator>Daniel Strbian</dc:creator>
+    <dc:creator>Israel Fernandez-Cadenas</dc:creator>
+    <dc:creator>WT Longstreth</dc:creator>
+    <dc:creator>Arndt Rolfs</dc:creator>
+    <dc:creator>Jun Hata</dc:creator>
+    <dc:creator>Daniel Woo</dc:creator>
+    <dc:creator>Jonathan Rosand</dc:creator>
+    <dc:creator>Guillaume Pare</dc:creator>
+    <dc:creator>Jemma Hopewell</dc:creator>
+    <dc:creator>Danish Saleheen</dc:creator>
+    <dc:creator>Kari Stefansson</dc:creator>
+    <dc:creator>Bradford Worrall</dc:creator>
+    <dc:creator>Steven Kittner</dc:creator>
+    <dc:creator>Sudha Seshadri</dc:creator>
+    <dc:creator>Myriam Fornage</dc:creator>
+    <dc:creator>Hugh Markus</dc:creator>
+    <dc:creator>Joanna Howson</dc:creator>
+    <dc:creator>Yoichiro Kamatani</dc:creator>
+    <dc:creator>Stephanie Debette</dc:creator>
+    <dc:creator>Martin Dichgans</dc:creator>
+    <dc:creator>Rainer Malik</dc:creator>
+    <dc:creator>Ganesh Chauhan</dc:creator>
+    <dc:creator>Matthew Traylor</dc:creator>
+    <dc:creator>Muralidharan Sargurupremraj</dc:creator>
+    <dc:creator>Yukinori Okada</dc:creator>
+    <dc:creator>Aniket Mishra</dc:creator>
+    <dc:creator>Loes Rutten-Jacobs</dc:creator>
+    <dc:creator>Anne-Katrin Giese</dc:creator>
+    <dc:creator>Sander van der Laan</dc:creator>
+    <dc:creator>Solveig Gretarsdottir</dc:creator>
+    <dc:creator>Christopher Anderson</dc:creator>
+    <dc:creator>Michael Chong</dc:creator>
+    <dc:creator>Hieab Adams</dc:creator>
+    <dc:creator>Tetsuro Ago</dc:creator>
+    <dc:creator>Peter Almgren</dc:creator>
+    <dc:creator>Philippe Amouyel</dc:creator>
+    <dc:creator>Hakan Ay</dc:creator>
+    <dc:creator>Traci Bartz</dc:creator>
+    <dc:creator>Oscar Benavente</dc:creator>
+    <dc:creator>Steve Bevan</dc:creator>
+    <dc:creator>Giorgio Boncoraglio</dc:creator>
+    <dc:creator>Robert Brown</dc:creator>
+    <dc:creator>Adam Butterworth</dc:creator>
+    <dc:creator>Caty Carrera</dc:creator>
+    <dc:creator>Cara Carty</dc:creator>
+    <dc:creator>Daniel Chasman</dc:creator>
+    <dc:creator>Wei-Min Chen</dc:creator>
+    <dc:creator>John Cole</dc:creator>
+    <dc:creator>Adolfo Correa</dc:creator>
+    <dc:creator>Ioana Cotlarciuc</dc:creator>
+    <dc:creator>Carlos Cruchaga</dc:creator>
+    <dc:creator>John Danesh</dc:creator>
+    <dc:creator>Paul de Bakker</dc:creator>
+    <dc:creator>Anita DeStefano</dc:creator>
+    <dc:creator>Marcel Hoed</dc:creator>
+    <dc:creator>Qing Duan</dc:creator>
+    <dc:creator>Stefan Engelter</dc:creator>
+    <dc:creator>Guido Falcone</dc:creator>
+    <dc:creator>Rebecca Gottesman</dc:creator>
+    <dc:creator>Raji Grewal</dc:creator>
+    <dc:creator>Vilmundur Gudnason</dc:creator>
+    <dc:creator>Stefan Gustafsson</dc:creator>
+    <dc:creator>Jeffrey Haessler</dc:creator>
+    <dc:creator>Tamara Harris</dc:creator>
+    <dc:creator>Ahamad Hassan</dc:creator>
+    <dc:creator>Aki Havulinna</dc:creator>
+    <dc:creator>Susan Heckbert</dc:creator>
+    <dc:creator>Elizabeth Holliday</dc:creator>
+    <dc:creator>George Howard</dc:creator>
+    <dc:creator>Fang-Chi Hsu</dc:creator>
+    <dc:creator>Hyacinth Hyacinth</dc:creator>
+    <dc:creator>Arfan Ikram</dc:creator>
+    <dc:creator>Erik Ingelsson</dc:creator>
+    <dc:creator>Marguerite Irvin</dc:creator>
+    <dc:creator>Xueqiu Jian</dc:creator>
+    <dc:creator>Jordi Jiménez-Conde</dc:creator>
+    <dc:creator>Julie Johnson</dc:creator>
+    <dc:creator>Wouter Jukema</dc:creator>
+    <dc:creator>Masahiro Kanai</dc:creator>
+    <dc:creator>Keith Keene</dc:creator>
+    <dc:creator>Brett Kissela</dc:creator>
+    <dc:creator>Dawn Kleindorfer</dc:creator>
+    <dc:creator>Charles Kooperberg</dc:creator>
+    <dc:creator>Michiaki Kubo</dc:creator>
+    <dc:creator>Leslie Lange</dc:creator>
+    <dc:creator>Carl Langefeld</dc:creator>
+    <dc:creator>Claudia Langenberg</dc:creator>
+    <dc:creator>Lenore Launer</dc:creator>
+    <dc:creator>Jin-Moo Lee</dc:creator>
+    <dc:creator>Robin Lemmens</dc:creator>
+    <dc:creator>Didier Leys</dc:creator>
+    <dc:creator>Cathryn Lewis</dc:creator>
+    <dc:creator>Wei-Yu Lin</dc:creator>
+    <dc:creator>Arne Lindgren</dc:creator>
+    <dc:creator>Erik Lorentzen</dc:creator>
+    <dc:creator>Patrik Magnusson</dc:creator>
+    <dc:creator>Jane Maguire</dc:creator>
+    <dc:creator>Ani Manichaikul</dc:creator>
+    <dc:creator>Patrick McArdle</dc:creator>
+    <dc:creator>James Meschia</dc:creator>
+    <dc:creator>Braxton Mitchell</dc:creator>
+    <dc:creator>Thomas Mosley</dc:creator>
+    <dc:creator>Michael Nalls</dc:creator>
+    <dc:creator>Toshiharu Ninomiya</dc:creator>
+    <dc:creator>Martin O’Donnell</dc:creator>
+    <dc:creator>Bruce Psaty</dc:creator>
+    <dc:creator>Sara Pulit</dc:creator>
+    <dc:creator>Kristiina Rannikmäe</dc:creator>
+    <dc:creator>Alexander Reiner</dc:creator>
+    <dc:creator>Kathryn Rexrode</dc:creator>
+    <dc:creator>Kenneth Rice</dc:creator>
+    <dc:creator>Stephen Rich</dc:creator>
+    <dc:creator>Paul Ridker</dc:creator>
+    <dc:creator>Natalia Rost</dc:creator>
+    <dc:creator>Peter Rothwell</dc:creator>
+    <dc:creator>Jerome Rotter</dc:creator>
+    <dc:creator>Tatjana Rundek</dc:creator>
+    <dc:creator>Ralph Sacco</dc:creator>
+    <dc:creator>Saori Sakaue</dc:creator>
+    <dc:creator>Michele Sale</dc:creator>
+    <dc:creator>Veikko Salomaa</dc:creator>
+    <dc:creator>Bishwa Sapkota</dc:creator>
+    <dc:creator>Reinhold Schmidt</dc:creator>
+    <dc:creator>Carsten Schmidt</dc:creator>
+    <dc:creator>Ulf Schminke</dc:creator>
+    <dc:creator>Pankaj Sharma</dc:creator>
+    <dc:creator>Agnieszka Slowik</dc:creator>
+    <dc:creator>Cathie Sudlow</dc:creator>
+    <dc:creator>Christian Tanislav</dc:creator>
+    <dc:creator>Turgut Tatlisumak</dc:creator>
+    <dc:creator>Kent Taylor</dc:creator>
+    <dc:creator>Vincent Thijs</dc:creator>
+    <dc:creator>Gudmar Thorleifsson</dc:creator>
+    <dc:creator>Unnur Thorsteinsdottir</dc:creator>
+    <dc:creator>Steffen Tiedt</dc:creator>
+    <dc:creator>Stella Trompet</dc:creator>
+    <dc:creator>Christophe Tzourio</dc:creator>
+    <dc:creator>Cornelia van Duijn</dc:creator>
+    <dc:creator>Matthew Walters</dc:creator>
+    <dc:creator>Nicholas Wareham</dc:creator>
+    <dc:creator>Sylvia Wassertheil-Smoller</dc:creator>
+    <dc:creator>James Wilson</dc:creator>
+    <dc:creator>Kerri Wiggins</dc:creator>
+    <dc:creator>Qiong Yang</dc:creator>
+    <dc:creator>Salim Yusuf</dc:creator>
+    <dc:creator>Najaf Amin</dc:creator>
+    <dc:creator>Hugo Aparicio</dc:creator>
+    <dc:creator>Donna Arnett</dc:creator>
+    <dc:creator>John Attia</dc:creator>
+    <dc:creator>Alexa Beiser</dc:creator>
+    <dc:creator>Claudine Berr</dc:creator>
+    <dc:creator>Julie Buring</dc:creator>
+    <dc:creator>Mariana Bustamante</dc:creator>
+    <dc:creator>Valeria Caso</dc:creator>
+    <dc:creator>Yu-Ching Cheng</dc:creator>
+    <dc:creator>Seung Choi</dc:creator>
+    <dc:creator>Ayesha Chowhan</dc:creator>
+    <dc:creator>Natalia Cullell</dc:creator>
+    <dc:creator>Jean-François Dartigues</dc:creator>
+    <dc:creator>Hossein Delavaran</dc:creator>
+    <dc:creator>Pilar Delgado</dc:creator>
+    <dc:creator>Marcus Dörr</dc:creator>
+    <dc:creator>Gunnar Engström</dc:creator>
+    <dc:creator>Ian Ford</dc:creator>
+    <dc:creator>Wander Gurpreet</dc:creator>
+    <dc:creator>Anders Hamsten</dc:creator>
+    <dc:creator>Laura Heitsch</dc:creator>
+    <dc:creator>Atsushi Hozawa</dc:creator>
+    <dc:creator>Laura Ibanez</dc:creator>
+    <dc:creator>Andreea Ilinca</dc:creator>
+    <dc:creator>Martin Ingelsson</dc:creator>
+    <dc:creator>Motoki Iwasaki</dc:creator>
+    <dc:creator>Rebecca Jackson</dc:creator>
+    <dc:creator>Katarina Jood</dc:creator>
+    <dc:creator>Pekka Jousilahti</dc:creator>
+    <dc:creator>Sara Kaffashian</dc:creator>
+    <dc:creator>Lalit Kalra</dc:creator>
+    <dc:creator>Masahiro Kamouchi</dc:creator>
+    <dc:creator>Takanari Kitazono</dc:creator>
+    <dc:creator>Olafur Kjartansson</dc:creator>
+    <dc:creator>Manja Kloss</dc:creator>
+    <dc:creator>Peter Koudstaal</dc:creator>
+    <dc:creator>Jerzy Krupinski</dc:creator>
+    <dc:creator>Daniel Labovitz</dc:creator>
+    <dc:creator>Cathy Laurie</dc:creator>
+    <dc:creator>Christopher Levi</dc:creator>
+    <dc:creator>Linxin Li</dc:creator>
+    <dc:creator>Lars Lind</dc:creator>
+    <dc:creator>Cecilia Lindgren</dc:creator>
+    <dc:creator>Vasileios Lioutas</dc:creator>
+    <dc:creator>Yong Liu</dc:creator>
+    <dc:creator>Oscar Lopez</dc:creator>
+    <dc:creator>Hirata Makoto</dc:creator>
+    <dc:creator>Nicolas Martinez-Majander</dc:creator>
+    <dc:creator>Koichi Matsuda</dc:creator>
+    <dc:creator>Naoko Minegishi</dc:creator>
+    <dc:creator>Joan Montaner</dc:creator>
+    <dc:creator>Andrew Morris</dc:creator>
+    <dc:creator>Elena Muiño</dc:creator>
+    <dc:creator>Martina Müller-Nurasyid</dc:creator>
+    <dc:creator>Bo Norrving</dc:creator>
+    <dc:creator>Soichi Ogishima</dc:creator>
+    <dc:creator>Eugenio Parati</dc:creator>
+    <dc:creator>Leema Peddareddygari</dc:creator>
+    <dc:creator>Nancy Pedersen</dc:creator>
+    <dc:creator>Joanna Pera</dc:creator>
+    <dc:creator>Markus Perola</dc:creator>
+    <dc:creator>Alessandro Pezzini</dc:creator>
+    <dc:creator>Silvana Pileggi</dc:creator>
+    <dc:creator>Raquel Rabionet</dc:creator>
+    <dc:creator>Iolanda Riba-Llena</dc:creator>
+    <dc:creator>Marta Ribasés</dc:creator>
+    <dc:creator>Jose Romero</dc:creator>
+    <dc:creator>Jaume Roquer</dc:creator>
+    <dc:creator>Anthony Rudd</dc:creator>
+    <dc:creator>Antti-Pekka Sarin</dc:creator>
+    <dc:creator>Ralhan Sarju</dc:creator>
+    <dc:creator>Chloe Sarnowski</dc:creator>
+    <dc:creator>Makoto Sasaki</dc:creator>
+    <dc:creator>Claudia Satizabal</dc:creator>
+    <dc:creator>Mamoru Satoh</dc:creator>
+    <dc:creator>Naveed Sattar</dc:creator>
+    <dc:creator>Norie Sawada</dc:creator>
+    <dc:creator>Gerli Sibolt</dc:creator>
+    <dc:creator>Ásgeir Sigurdsson</dc:creator>
+    <dc:creator>Albert Smith</dc:creator>
+    <dc:creator>Kenji Sobue</dc:creator>
+    <dc:creator>Carolina Soriano-Tárraga</dc:creator>
+    <dc:creator>Tara Stanne</dc:creator>
+    <dc:creator>Colin Stine</dc:creator>
+    <dc:creator>David Stott</dc:creator>
+    <dc:creator>Konstantin Strauch</dc:creator>
+    <dc:creator>Takako Takai</dc:creator>
+    <dc:creator>Hideo Tanaka</dc:creator>
+    <dc:creator>Kozo Tanno</dc:creator>
+    <dc:creator>Alexander Teumer</dc:creator>
+    <dc:creator>Liisa Tomppo</dc:creator>
+    <dc:creator>Nuria Torres-Aguila</dc:creator>
+    <dc:creator>Emmanuel Touze</dc:creator>
+    <dc:creator>Shoichiro Tsugane</dc:creator>
+    <dc:creator>Andre Uitterlinden</dc:creator>
+    <dc:creator>Einar Valdimarsson</dc:creator>
+    <dc:creator>Sven van der Lee</dc:creator>
+    <dc:creator>Henry Völzke</dc:creator>
+    <dc:creator>Kenji Wakai</dc:creator>
+    <dc:creator>David Weir</dc:creator>
+    <dc:creator>Stephen Williams</dc:creator>
+    <dc:creator>Charles Wolfe</dc:creator>
+    <dc:creator>Quenna Wong</dc:creator>
+    <dc:creator>Huichun Xu</dc:creator>
+    <dc:creator>Taiki Yamaji</dc:creator>
+    <dc:creator>Dharambir Sanghera</dc:creator>
+    <dc:creator>Olle Melander</dc:creator>
+    <dc:creator>Christina Jern</dc:creator>
+    <dc:creator>Daniel Strbian</dc:creator>
+    <dc:creator>Israel Fernandez-Cadenas</dc:creator>
+    <dc:creator>WT Longstreth</dc:creator>
+    <dc:creator>Arndt Rolfs</dc:creator>
+    <dc:creator>Jun Hata</dc:creator>
+    <dc:creator>Daniel Woo</dc:creator>
+    <dc:creator>Jonathan Rosand</dc:creator>
+    <dc:creator>Guillaume Pare</dc:creator>
+    <dc:creator>Jemma Hopewell</dc:creator>
+    <dc:creator>Danish Saleheen</dc:creator>
+    <dc:creator>Kari Stefansson</dc:creator>
+    <dc:creator>Bradford Worrall</dc:creator>
+    <dc:creator>Steven Kittner</dc:creator>
+    <dc:creator>Sudha Seshadri</dc:creator>
+    <dc:creator>Myriam Fornage</dc:creator>
+    <dc:creator>Hugh Markus</dc:creator>
+    <dc:creator>Joanna Howson</dc:creator>
+    <dc:creator>Yoichiro Kamatani</dc:creator>
+    <dc:creator>Stephanie Debette</dc:creator>
+    <dc:creator>Martin Dichgans</dc:creator>
+    <dc:identifier>doi:10.1038/s41588-018-0058-3</dc:identifier>
+    <dc:source>Nature Genetics (12 March 2018), doi:10.1038/s41588-018-0058-3</dc:source>
+    <dc:date>2018-03-15T11:38:39-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Nature Genetics</prism:publicationName>
+    <prism:issn>1061-4036</prism:issn>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549583">
+    <title>Phenotype of CNTNAP1: a study of patients demonstrating a specific severe congenital hypomyelinating neuropathy with survival beyond infancy</title>
+    <link>http://www.citeulike.org/group/10570/article/14549583</link>
+    <description>&lt;i&gt;European Journal of Human Genetics (6 March 2018), doi:10.1038/s41431-018-0110-x&lt;/i&gt;&lt;br /&gt;&lt;i&gt;KJ Low, K Stals, R Caswell, M Wakeling, J Clayton-Smith, A Donaldson, N Foulds, A Norman, M Splitt, K Urankar, K Vijayakumar, A Majumdar, DDD Study, S Ellard, SF Smithson&lt;/i&gt;</description>
+    <dc:title>Phenotype of CNTNAP1: a study of patients demonstrating a specific severe congenital hypomyelinating neuropathy with survival beyond infancy</dc:title>
+
+    <dc:creator>KJ Low</dc:creator>
+    <dc:creator>K Stals</dc:creator>
+    <dc:creator>R Caswell</dc:creator>
+    <dc:creator>M Wakeling</dc:creator>
+    <dc:creator>J Clayton-Smith</dc:creator>
+    <dc:creator>A Donaldson</dc:creator>
+    <dc:creator>N Foulds</dc:creator>
+    <dc:creator>A Norman</dc:creator>
+    <dc:creator>M Splitt</dc:creator>
+    <dc:creator>K Urankar</dc:creator>
+    <dc:creator>K Vijayakumar</dc:creator>
+    <dc:creator>A Majumdar</dc:creator>
+    <dc:creator>DDD Study</dc:creator>
+    <dc:creator>S Ellard</dc:creator>
+    <dc:creator>SF Smithson</dc:creator>
+    <dc:identifier>doi:10.1038/s41431-018-0110-x</dc:identifier>
+    <dc:source>European Journal of Human Genetics (6 March 2018), doi:10.1038/s41431-018-0110-x</dc:source>
+    <dc:date>2018-03-15T11:27:52-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>European Journal of Human Genetics</prism:publicationName>
+    <prism:issn>1018-4813</prism:issn>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549582">
+    <title>Genetics of HbA1c: a case study in clinical translation</title>
+    <link>http://www.citeulike.org/group/10570/article/14549582</link>
+    <description>&lt;i&gt;Current Opinion in Genetics &amp;amp;#38; Development, Vol. 50 (June 2018), pp. 79-85, doi:10.1016/j.gde.2018.02.008&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Aaron Leong, Eleanor Wheeler&lt;/i&gt;</description>
+    <dc:title>Genetics of HbA1c: a case study in clinical translation</dc:title>
+
+    <dc:creator>Aaron Leong</dc:creator>
+    <dc:creator>Eleanor Wheeler</dc:creator>
+    <dc:identifier>doi:10.1016/j.gde.2018.02.008</dc:identifier>
+    <dc:source>Current Opinion in Genetics &amp;#38; Development, Vol. 50 (June 2018), pp. 79-85, doi:10.1016/j.gde.2018.02.008</dc:source>
+    <dc:date>2018-03-15T11:22:17-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Current Opinion in Genetics &#38; Development</prism:publicationName>
+    <prism:issn>0959437X</prism:issn>
+    <prism:volume>50</prism:volume>
+    <prism:startingPage>79</prism:startingPage>
+    <prism:endingPage>85</prism:endingPage>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549578">
+    <title>Genome-wide association study in Finnish twins highlights the connection between nicotine addiction and neurotrophin signaling pathway</title>
+    <link>http://www.citeulike.org/group/10570/article/14549578</link>
+    <description>&lt;i&gt;Addiction Biology, pp. n/a-n/a, doi:10.1111/adb.12618&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The heritability of nicotine dependence based on family studies is substantial. Nevertheless, knowledge of the underlying genetic architecture remains meager. Our aim was to identify novel genetic variants responsible for interindividual differences in smoking behavior. We performed a genome-wide association study on 1715 ever smokers ascertained from the population-based Finnish Twin Cohort enriched for heavy smoking. Data imputation used the 1000 Genomes Phase I reference panel together with a whole genome sequence-based Finnish reference panel. We analyzed three measures of nicotine addiction—smoking quantity, nicotine dependence and nicotine withdrawal. We annotated all genome-wide significant SNPs for their functional potential. First, we detected genome-wide significant association on 16p12 with smoking quantity (P = 8.5 × 10−9), near CLEC19A. The lead-SNP stands 22 kb from a binding site for NF-κB transcription factors, which play a role in the neurotrophin signaling pathway. However, the signal was not replicated in an independent Finnish population-based sample, FINRISK (n = 6763). Second, nicotine withdrawal showed association on 2q21 in an intron of TMEM163 (P = 2.1 × 10−9), and on 11p15 (P = 6.6 × 10−8) in an intron of AP2A2, and P = 4.2 × 10−7 for a missense variant in MUC6, both involved in the neurotrophin signaling pathway). Third, association was detected on 3p22.3 for maximum number of cigarettes smoked per day (P = 3.1 × 10−8) near STAC. Associating CLEC19A and TMEM163 SNPs were annotated to influence gene expression or methylation. The neurotrophin signaling pathway has previously been associated with smoking behavior. Our findings further support the role in nicotine addiction.&lt;br /&gt;&lt;i&gt;Jenni Hällfors, Teemu Palviainen, Ida Surakka, Richa Gupta, Jadwiga Buchwald, Anu Raevuori, Samuli Ripatti, Tellervo Korhonen, Pekka Jousilahti, Pamela Madden, Jaakko Kaprio, Anu Loukola&lt;/i&gt;</description>
+    <dc:title>Genome-wide association study in Finnish twins highlights the connection between nicotine addiction and neurotrophin signaling pathway</dc:title>
+
+    <dc:creator>Jenni Hällfors</dc:creator>
+    <dc:creator>Teemu Palviainen</dc:creator>
+    <dc:creator>Ida Surakka</dc:creator>
+    <dc:creator>Richa Gupta</dc:creator>
+    <dc:creator>Jadwiga Buchwald</dc:creator>
+    <dc:creator>Anu Raevuori</dc:creator>
+    <dc:creator>Samuli Ripatti</dc:creator>
+    <dc:creator>Tellervo Korhonen</dc:creator>
+    <dc:creator>Pekka Jousilahti</dc:creator>
+    <dc:creator>Pamela Madden</dc:creator>
+    <dc:creator>Jaakko Kaprio</dc:creator>
+    <dc:creator>Anu Loukola</dc:creator>
+    <dc:identifier>doi:10.1111/adb.12618</dc:identifier>
+    <dc:source>Addiction Biology, pp. n/a-n/a, doi:10.1111/adb.12618</dc:source>
+    <dc:date>2018-03-15T11:14:38-00:00</dc:date>
+    <prism:publicationName>Addiction Biology</prism:publicationName>
+    <prism:startingPage>n/a</prism:startingPage>
+    <prism:endingPage>n/a</prism:endingPage>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549197">
+    <title>The Chlamydia muridarum plasmid revisited...</title>
+    <link>http://www.citeulike.org/group/10570/article/14549197</link>
+    <description>&lt;i&gt;Wellcome Open Research (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;RJ Skilton, Y Wang, C O&#39;Neill, S Filardo, P Marsh, A Bénard, NR Thomson, KH Ramsey, IN Clarke&lt;/i&gt;</description>
+    <dc:title>The Chlamydia muridarum plasmid revisited...</dc:title>
+
+    <dc:creator>RJ Skilton</dc:creator>
+    <dc:creator>Y Wang</dc:creator>
+    <dc:creator>C O'Neill</dc:creator>
+    <dc:creator>S Filardo</dc:creator>
+    <dc:creator>P Marsh</dc:creator>
+    <dc:creator>A Bénard</dc:creator>
+    <dc:creator>NR Thomson</dc:creator>
+    <dc:creator>KH Ramsey</dc:creator>
+    <dc:creator>IN Clarke</dc:creator>
+    <dc:source>Wellcome Open Research (2018)</dc:source>
+    <dc:date>2018-03-15T10:45:05-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Wellcome Open Research</prism:publicationName>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14544498">
+    <title>Validation of ligands in macromolecular structures determined by X-ray crystallography</title>
+    <link>http://www.citeulike.org/group/10570/article/14544498</link>
+    <description>&lt;i&gt;Acta Crystallographica Section D: Structural Biology, Vol. 74, No. 3. (01 March 2018), pp. 228-236, doi:10.1107/s2059798318002541&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Crystallographic studies of ligands bound to biological macromolecules (proteins and nucleic acids) play a crucial role in structure-guided drug discovery and design, and also provide atomic level insights into the physical chemistry of complex formation between macromolecules and ligands. The quality with which small-molecule ligands have been modelled in Protein Data Bank (PDB) entries has been, and continues to be, a matter of concern for many investigators. Correctly interpreting whether electron density found in a binding site is compatible with the soaked or co-crystallized ligand or represents water or buffer molecules is often far from trivial. The Worldwide PDB validation report (VR) provides a mechanism to highlight any major issues concerning the quality of the data and the model at the time of deposition and annotation, so the depositors can fix issues, resulting in improved data quality. The ligand-validation methods used in the generation of the current VRs are described in detail, including an examination of the metrics to assess both geometry and electron-density fit. It is found that the LLDF score currently used to identify ligand electron-density fit outliers can give misleading results and that better ligand-validation metrics are required.&lt;br /&gt;&lt;i&gt;OS Smart, V Horský, S Gore, R Svobodová Vařeková, V Bendová, GJ Kleywegt, S Velankar, IUCr&lt;/i&gt;</description>
+    <dc:title>Validation of ligands in macromolecular structures determined by X-ray crystallography</dc:title>
+
+    <dc:creator>OS Smart</dc:creator>
+    <dc:creator>V Horský</dc:creator>
+    <dc:creator>S Gore</dc:creator>
+    <dc:creator>R Svobodová Vařeková</dc:creator>
+    <dc:creator>V Bendová</dc:creator>
+    <dc:creator>GJ Kleywegt</dc:creator>
+    <dc:creator>S Velankar</dc:creator>
+    <dc:creator>IUCr</dc:creator>
+    <dc:identifier>doi:10.1107/s2059798318002541</dc:identifier>
+    <dc:source>Acta Crystallographica Section D: Structural Biology, Vol. 74, No. 3. (01 March 2018), pp. 228-236, doi:10.1107/s2059798318002541</dc:source>
+    <dc:date>2018-03-15T10:16:59-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Acta Crystallographica Section D: Structural Biology</prism:publicationName>
+    <prism:issn>2059-7983</prism:issn>
+    <prism:volume>74</prism:volume>
+    <prism:number>3</prism:number>
+    <prism:startingPage>228</prism:startingPage>
+    <prism:endingPage>236</prism:endingPage>
+    <prism:publisher>International Union of Crystallography</prism:publisher>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14544528">
+    <title>Worldwide Protein Data Bank validation information: usage and trends</title>
+    <link>http://www.citeulike.org/group/10570/article/14544528</link>
+    <description>&lt;i&gt;Acta Crystallographica Section D: Structural Biology, Vol. 74, No. 3. (01 March 2018), pp. 237-244, doi:10.1107/s2059798318003303&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Realising the importance of assessing the quality of the biomolecular structures deposited in the Protein Data Bank (PDB), the Worldwide Protein Data Bank (wwPDB) partners established Validation Task Forces to obtain advice on the methods and standards to be used to validate structures determined by X-ray crystallography, nuclear magnetic resonance spectroscopy and three-dimensional electron cryo-microscopy. The resulting wwPDB validation pipeline is an integral part of the wwPDB OneDep deposition, biocuration and validation system. The wwPDB Validation Service webserver (https://validate.wwpdb.org) can be used to perform checks prior to deposition. Here, it is shown how validation metrics can be combined to produce an overall score that allows the ranking of macromolecular structures and domains in search results. The ValTrendsDB database provides users with a convenient way to access and analyse validation information and other properties of X-ray crystal structures in the PDB, including investigating trends in and correlations between different structure properties and validation metrics.&lt;br /&gt;&lt;i&gt;OS Smart, V Horský, S Gore, R Svobodová Vařeková, V Bendová, GJ Kleywegt, S Velankar, IUCr&lt;/i&gt;</description>
+    <dc:title>Worldwide Protein Data Bank validation information: usage and trends</dc:title>
+
+    <dc:creator>OS Smart</dc:creator>
+    <dc:creator>V Horský</dc:creator>
+    <dc:creator>S Gore</dc:creator>
+    <dc:creator>R Svobodová Vařeková</dc:creator>
+    <dc:creator>V Bendová</dc:creator>
+    <dc:creator>GJ Kleywegt</dc:creator>
+    <dc:creator>S Velankar</dc:creator>
+    <dc:creator>IUCr</dc:creator>
+    <dc:identifier>doi:10.1107/s2059798318003303</dc:identifier>
+    <dc:source>Acta Crystallographica Section D: Structural Biology, Vol. 74, No. 3. (01 March 2018), pp. 237-244, doi:10.1107/s2059798318003303</dc:source>
+    <dc:date>2018-03-15T10:13:34-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Acta Crystallographica Section D: Structural Biology</prism:publicationName>
+    <prism:issn>2059-7983</prism:issn>
+    <prism:volume>74</prism:volume>
+    <prism:number>3</prism:number>
+    <prism:startingPage>237</prism:startingPage>
+    <prism:endingPage>244</prism:endingPage>
+    <prism:publisher>International Union of Crystallography</prism:publisher>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549182">
+    <title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core</title>
+    <link>http://www.citeulike.org/group/10570/article/14549182</link>
+    <description>&lt;i&gt;Journal of Integrative Bioinformatics, Vol. 0, No. 0. (9 March 2018), doi:10.1515/jib-2017-0081&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Michael Hucka, Frank Bergmann, Andreas Dräger, Stefan Hoops, Sarah Keating, Nicolas Novère, Chris Myers, Brett Olivier, Sven Sahle, James Schaff, Lucian Smith, Dagmar Waltemath, Darren Wilkinson&lt;/i&gt;</description>
+    <dc:title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core</dc:title>
+
+    <dc:creator>Michael Hucka</dc:creator>
+    <dc:creator>Frank Bergmann</dc:creator>
+    <dc:creator>Andreas Dräger</dc:creator>
+    <dc:creator>Stefan Hoops</dc:creator>
+    <dc:creator>Sarah Keating</dc:creator>
+    <dc:creator>Nicolas Novère</dc:creator>
+    <dc:creator>Chris Myers</dc:creator>
+    <dc:creator>Brett Olivier</dc:creator>
+    <dc:creator>Sven Sahle</dc:creator>
+    <dc:creator>James Schaff</dc:creator>
+    <dc:creator>Lucian Smith</dc:creator>
+    <dc:creator>Dagmar Waltemath</dc:creator>
+    <dc:creator>Darren Wilkinson</dc:creator>
+    <dc:identifier>doi:10.1515/jib-2017-0081</dc:identifier>
+    <dc:source>Journal of Integrative Bioinformatics, Vol. 0, No. 0. (9 March 2018), doi:10.1515/jib-2017-0081</dc:source>
+    <dc:date>2018-03-15T09:54:05-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Journal of Integrative Bioinformatics</prism:publicationName>
+    <prism:issn>1613-4516</prism:issn>
+    <prism:volume>0</prism:volume>
+    <prism:number>0</prism:number>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549181">
+    <title>Simplifying research access to genomics and health data with Library Cards</title>
+    <link>http://www.citeulike.org/group/10570/article/14549181</link>
+    <description>&lt;i&gt;Scientific Data, Vol. 5 (14 March 2018), 180039, doi:10.1038/sdata.2018.39&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Moran Cabili, Knox Carey, Stephanie Dyke, Anthony Brookes, Marc Fiume, Francis Jeanson, Giselle Kerry, Alex Lash, Heidi Sofia, Dylan Spalding, Anne-Marie Tasse, Susheel Varma, Ravi Pandya&lt;/i&gt;</description>
+    <dc:title>Simplifying research access to genomics and health data with Library Cards</dc:title>
+
+    <dc:creator>Moran Cabili</dc:creator>
+    <dc:creator>Knox Carey</dc:creator>
+    <dc:creator>Stephanie Dyke</dc:creator>
+    <dc:creator>Anthony Brookes</dc:creator>
+    <dc:creator>Marc Fiume</dc:creator>
+    <dc:creator>Francis Jeanson</dc:creator>
+    <dc:creator>Giselle Kerry</dc:creator>
+    <dc:creator>Alex Lash</dc:creator>
+    <dc:creator>Heidi Sofia</dc:creator>
+    <dc:creator>Dylan Spalding</dc:creator>
+    <dc:creator>Anne-Marie Tasse</dc:creator>
+    <dc:creator>Susheel Varma</dc:creator>
+    <dc:creator>Ravi Pandya</dc:creator>
+    <dc:identifier>doi:10.1038/sdata.2018.39</dc:identifier>
+    <dc:source>Scientific Data, Vol. 5 (14 March 2018), 180039, doi:10.1038/sdata.2018.39</dc:source>
+    <dc:date>2018-03-15T09:46:00-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Scientific Data</prism:publicationName>
+    <prism:issn>2052-4463</prism:issn>
+    <prism:volume>5</prism:volume>
+    <prism:startingPage>180039</prism:startingPage>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549179">
+    <title>ChromoTrace: Computational reconstruction of 3D chromosome configurations for super-resolution microscopy</title>
+    <link>http://www.citeulike.org/group/10570/article/14549179</link>
+    <description>&lt;i&gt;PLOS Computational Biology, Vol. 14, No. 3. (9 March 2018), e1006002, doi:10.1371/journal.pcbi.1006002&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The 3D structure of chromatin plays a key role in genome function, including gene expression, DNA replication, chromosome segregation, and DNA repair. Furthermore the location of genomic loci within the nucleus, especially relative to each other and nuclear structures such as the nuclear envelope and nuclear bodies strongly correlates with aspects of function such as gene expression. Therefore, determining the 3D position of the 6 billion DNA base pairs in each of the 23 chromosomes inside the nucleus of a human cell is a central challenge of biology. Recent advances of super-resolution microscopy in principle enable the mapping of specific molecular features with nanometer precision inside cells. Combined with highly specific, sensitive and multiplexed fluorescence labeling of DNA sequences this opens up the possibility of mapping the 3D path of the genome sequence in situ. Here we develop computational methodologies to reconstruct the sequence configuration of all human chromosomes in the nucleus from a super-resolution image of a set of fluorescent in situ probes hybridized to the genome in a cell. To test our approach, we develop a method for the simulation of DNA in an idealized human nucleus. Our reconstruction method, ChromoTrace, uses suffix trees to assign a known linear ordering of in situ probes on the genome to an unknown set of 3D in-situ probe positions in the nucleus from super-resolved images using the known genomic probe spacing as a set of physical distance constraints between probes. We find that ChromoTrace can assign the 3D positions of the majority of loci with high accuracy and reasonable sensitivity to specific genome sequences. By simulating appropriate spatial resolution, label multiplexing and noise scenarios we assess our algorithms performance. Our study shows that it is feasible to achieve genome-wide reconstruction of the 3D DNA path based on super-resolution microscopy images. The 3D structure of DNA in the nucleus is known to be important for many aspects of DNA function, such as how gene expression is regulated. However, current techniques to localise or determine 3D DNA structure are often indirect. The advent of super-resolution microscopy, at a resolution of 20 nm or better can directly visualize fluorescent probes bound to specific DNA in the nucleus. However it is not trivial to associate how many specific stretches of DNA lie relative to each other, making reliable and precise 3D mapping of large stretches of the genome difficult. Here, we propose a method that leverages the fact that we know the sequence of the genome and the resolution of the super-resolution microscope. Our method, ChromoTrace, uses a computer science data structure, suffix trees, that allow one to simultaneous search the entire genome for specific sub-sequences. To show that our method works, we build a simulation scheme for simulating DNA as ensembles of polymer chains in a nucleus and explore the sensitivity of our method to different types of error. ChromoTrace can robustly and accurately reconstruct 3D paths in our simulations.&lt;br /&gt;&lt;i&gt;Carl Barton, Sandro Morganella, Øyvind Ødegård-Fougner, Stephanie Alexander, Jonas Ries, Tomas Fitzgerald, Jan Ellenberg, Ewan Birney&lt;/i&gt;</description>
+    <dc:title>ChromoTrace: Computational reconstruction of 3D chromosome configurations for super-resolution microscopy</dc:title>
+
+    <dc:creator>Carl Barton</dc:creator>
+    <dc:creator>Sandro Morganella</dc:creator>
+    <dc:creator>Øyvind Ødegård-Fougner</dc:creator>
+    <dc:creator>Stephanie Alexander</dc:creator>
+    <dc:creator>Jonas Ries</dc:creator>
+    <dc:creator>Tomas Fitzgerald</dc:creator>
+    <dc:creator>Jan Ellenberg</dc:creator>
+    <dc:creator>Ewan Birney</dc:creator>
+    <dc:identifier>doi:10.1371/journal.pcbi.1006002</dc:identifier>
+    <dc:source>PLOS Computational Biology, Vol. 14, No. 3. (9 March 2018), e1006002, doi:10.1371/journal.pcbi.1006002</dc:source>
+    <dc:date>2018-03-15T09:42:12-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>PLOS Computational Biology</prism:publicationName>
+    <prism:volume>14</prism:volume>
+    <prism:number>3</prism:number>
+    <prism:startingPage>e1006002</prism:startingPage>
+    <prism:publisher>Public Library of Science</prism:publisher>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549172">
+    <title>Whole-Genome-Sequence-Based Haplotypes Reveal Single Origin of the Sickle Allele during the Holocene Wet Phase</title>
+    <link>http://www.citeulike.org/group/10570/article/14549172</link>
+    <description>&lt;i&gt;The American Journal of Human Genetics (March 2018), doi:10.1016/j.ajhg.2018.02.003&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Daniel Shriner, Charles Rotimi&lt;/i&gt;</description>
+    <dc:title>Whole-Genome-Sequence-Based Haplotypes Reveal Single Origin of the Sickle Allele during the Holocene Wet Phase</dc:title>
+
+    <dc:creator>Daniel Shriner</dc:creator>
+    <dc:creator>Charles Rotimi</dc:creator>
+    <dc:identifier>doi:10.1016/j.ajhg.2018.02.003</dc:identifier>
+    <dc:source>The American Journal of Human Genetics (March 2018), doi:10.1016/j.ajhg.2018.02.003</dc:source>
+    <dc:date>2018-03-15T09:33:24-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>The American Journal of Human Genetics</prism:publicationName>
+    <prism:issn>00029297</prism:issn>
+    <prism:category>human</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549170">
+    <title>The human leukemia virus HTLV-1 alters the structure and transcription of host chromatin in cis</title>
+    <link>http://www.citeulike.org/group/10570/article/14549170</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Anat Melamed, Hiroko Yaguchi, Michi Miura, Aviva Witkover, Tomas Fitzgerald, Ewan Birney, Charles Bangham&lt;/i&gt;</description>
+    <dc:title>The human leukemia virus HTLV-1 alters the structure and transcription of host chromatin in cis</dc:title>
+
+    <dc:creator>Anat Melamed</dc:creator>
+    <dc:creator>Hiroko Yaguchi</dc:creator>
+    <dc:creator>Michi Miura</dc:creator>
+    <dc:creator>Aviva Witkover</dc:creator>
+    <dc:creator>Tomas Fitzgerald</dc:creator>
+    <dc:creator>Ewan Birney</dc:creator>
+    <dc:creator>Charles Bangham</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-15T09:24:37-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>cancer</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14549168">
+    <title>Gene Unprediction with Spurio: A tool to identify spurious protein sequences</title>
+    <link>http://www.citeulike.org/group/10570/article/14549168</link>
+    <description>&lt;i&gt;F1000Research, Vol. 7 (2 March 2018), 261, doi:10.12688/f1000research.14050.1&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Wolfram Höps, Matt Jeffryes, Alex Bateman&lt;/i&gt;</description>
+    <dc:title>Gene Unprediction with Spurio: A tool to identify spurious protein sequences</dc:title>
+
+    <dc:creator>Wolfram Höps</dc:creator>
+    <dc:creator>Matt Jeffryes</dc:creator>
+    <dc:creator>Alex Bateman</dc:creator>
+    <dc:identifier>doi:10.12688/f1000research.14050.1</dc:identifier>
+    <dc:source>F1000Research, Vol. 7 (2 March 2018), 261, doi:10.12688/f1000research.14050.1</dc:source>
+    <dc:date>2018-03-15T09:15:02-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>F1000Research</prism:publicationName>
+    <prism:issn>2046-1402</prism:issn>
+    <prism:volume>7</prism:volume>
+    <prism:startingPage>261</prism:startingPage>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546284">
+    <title>A recombinant Fasciola gigantica 14-3-3 epsilon protein (rFg14-3-3e) modulates various functions of goat peripheral blood mononuclear cells</title>
+    <link>http://www.citeulike.org/group/10570/article/14546284</link>
+    <description>&lt;i&gt;Parasites &amp;amp;#38; Vectors, Vol. 11, No. 1. (6 March 2018), doi:10.1186/s13071-018-2745-4&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Ai-Ling Tian, MingMin Lu, Guillermo Calderón-Mantilla, Evangelia Petsalaki, Tania Dottorini, XiaoWei Tian, YuJian Wang, Si-Yang Huang, Jun-Ling Hou, XiangRui Li, Hany Elsheikha, Xing-Quan Zhu&lt;/i&gt;</description>
+    <dc:title>A recombinant Fasciola gigantica 14-3-3 epsilon protein (rFg14-3-3e) modulates various functions of goat peripheral blood mononuclear cells</dc:title>
+
+    <dc:creator>Ai-Ling Tian</dc:creator>
+    <dc:creator>MingMin Lu</dc:creator>
+    <dc:creator>Guillermo Calderón-Mantilla</dc:creator>
+    <dc:creator>Evangelia Petsalaki</dc:creator>
+    <dc:creator>Tania Dottorini</dc:creator>
+    <dc:creator>XiaoWei Tian</dc:creator>
+    <dc:creator>YuJian Wang</dc:creator>
+    <dc:creator>Si-Yang Huang</dc:creator>
+    <dc:creator>Jun-Ling Hou</dc:creator>
+    <dc:creator>XiangRui Li</dc:creator>
+    <dc:creator>Hany Elsheikha</dc:creator>
+    <dc:creator>Xing-Quan Zhu</dc:creator>
+    <dc:identifier>doi:10.1186/s13071-018-2745-4</dc:identifier>
+    <dc:source>Parasites &amp;#38; Vectors, Vol. 11, No. 1. (6 March 2018), doi:10.1186/s13071-018-2745-4</dc:source>
+    <dc:date>2018-03-08T19:01:52-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Parasites &#38; Vectors</prism:publicationName>
+    <prism:issn>1756-3305</prism:issn>
+    <prism:volume>11</prism:volume>
+    <prism:number>1</prism:number>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546282">
+    <title>STRENDA DB: enabling the validation and sharing of enzyme kinetics data</title>
+    <link>http://www.citeulike.org/group/10570/article/14546282</link>
+    <description>&lt;i&gt;The FEBS Journal (02 March 2018), doi:10.1111/febs.14427&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Neil Swainston, Antonio Baici, Barbara Bakker, Athel Cornish-Bowden, Paul Fitzpatrick, Peter Halling, Thomas Leyh, Claire O&#39;Donovan, Frank Raushel, Udo Reschel, Johann Rohwer, Santiago Schnell, Dietmar Schomburg, Keith Tipton, Ming-Daw Tsai, Hans Westerhoff, Ulrike Wittig, Roland Wohlgemuth, Carsten Kettner&lt;/i&gt;</description>
+    <dc:title>STRENDA DB: enabling the validation and sharing of enzyme kinetics data</dc:title>
+
+    <dc:creator>Neil Swainston</dc:creator>
+    <dc:creator>Antonio Baici</dc:creator>
+    <dc:creator>Barbara Bakker</dc:creator>
+    <dc:creator>Athel Cornish-Bowden</dc:creator>
+    <dc:creator>Paul Fitzpatrick</dc:creator>
+    <dc:creator>Peter Halling</dc:creator>
+    <dc:creator>Thomas Leyh</dc:creator>
+    <dc:creator>Claire O'Donovan</dc:creator>
+    <dc:creator>Frank Raushel</dc:creator>
+    <dc:creator>Udo Reschel</dc:creator>
+    <dc:creator>Johann Rohwer</dc:creator>
+    <dc:creator>Santiago Schnell</dc:creator>
+    <dc:creator>Dietmar Schomburg</dc:creator>
+    <dc:creator>Keith Tipton</dc:creator>
+    <dc:creator>Ming-Daw Tsai</dc:creator>
+    <dc:creator>Hans Westerhoff</dc:creator>
+    <dc:creator>Ulrike Wittig</dc:creator>
+    <dc:creator>Roland Wohlgemuth</dc:creator>
+    <dc:creator>Carsten Kettner</dc:creator>
+    <dc:identifier>doi:10.1111/febs.14427</dc:identifier>
+    <dc:source>The FEBS Journal (02 March 2018), doi:10.1111/febs.14427</dc:source>
+    <dc:date>2018-03-08T18:53:04-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>The FEBS Journal</prism:publicationName>
+    <prism:issn>1742464X</prism:issn>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546272">
+    <title>Whither systems medicine?</title>
+    <link>http://www.citeulike.org/group/10570/article/14546272</link>
+    <description>&lt;i&gt;Experimental &amp;amp;#38; Molecular Medicine, Vol. 50, No. 3. (2 March 2018), e453, doi:10.1038/emm.2017.290&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Rolf Apweiler, Tim Beissbarth, Michael Berthold, Nils Blüthgen, Yvonne Burmeister, Olaf Dammann, Andreas Deutsch, Friedrich Feuerhake, Andre Franke, Jan Hasenauer, Steve Hoffmann, Thomas Höfer, Peter Jansen, Lars Kaderali, Ursula Klingmüller, Ina Koch, Oliver Kohlbacher, Lars Kuepfer, Frank Lammert, Dieter Maier, Nico Pfeifer, Nicole Radde, Markus Rehm, Ingo Roeder, Julio Saez-Rodriguez, Ulrich Sax, Bernd Schmeck, Andreas Schuppert, Bernd Seilheimer, Fabian Theis, Julio Vera, Olaf Wolkenhauer&lt;/i&gt;</description>
+    <dc:title>Whither systems medicine?</dc:title>
+
+    <dc:creator>Rolf Apweiler</dc:creator>
+    <dc:creator>Tim Beissbarth</dc:creator>
+    <dc:creator>Michael Berthold</dc:creator>
+    <dc:creator>Nils Blüthgen</dc:creator>
+    <dc:creator>Yvonne Burmeister</dc:creator>
+    <dc:creator>Olaf Dammann</dc:creator>
+    <dc:creator>Andreas Deutsch</dc:creator>
+    <dc:creator>Friedrich Feuerhake</dc:creator>
+    <dc:creator>Andre Franke</dc:creator>
+    <dc:creator>Jan Hasenauer</dc:creator>
+    <dc:creator>Steve Hoffmann</dc:creator>
+    <dc:creator>Thomas Höfer</dc:creator>
+    <dc:creator>Peter Jansen</dc:creator>
+    <dc:creator>Lars Kaderali</dc:creator>
+    <dc:creator>Ursula Klingmüller</dc:creator>
+    <dc:creator>Ina Koch</dc:creator>
+    <dc:creator>Oliver Kohlbacher</dc:creator>
+    <dc:creator>Lars Kuepfer</dc:creator>
+    <dc:creator>Frank Lammert</dc:creator>
+    <dc:creator>Dieter Maier</dc:creator>
+    <dc:creator>Nico Pfeifer</dc:creator>
+    <dc:creator>Nicole Radde</dc:creator>
+    <dc:creator>Markus Rehm</dc:creator>
+    <dc:creator>Ingo Roeder</dc:creator>
+    <dc:creator>Julio Saez-Rodriguez</dc:creator>
+    <dc:creator>Ulrich Sax</dc:creator>
+    <dc:creator>Bernd Schmeck</dc:creator>
+    <dc:creator>Andreas Schuppert</dc:creator>
+    <dc:creator>Bernd Seilheimer</dc:creator>
+    <dc:creator>Fabian Theis</dc:creator>
+    <dc:creator>Julio Vera</dc:creator>
+    <dc:creator>Olaf Wolkenhauer</dc:creator>
+    <dc:identifier>doi:10.1038/emm.2017.290</dc:identifier>
+    <dc:source>Experimental &amp;#38; Molecular Medicine, Vol. 50, No. 3. (2 March 2018), e453, doi:10.1038/emm.2017.290</dc:source>
+    <dc:date>2018-03-08T18:42:23-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Experimental &#38; Molecular Medicine</prism:publicationName>
+    <prism:issn>2092-6413</prism:issn>
+    <prism:volume>50</prism:volume>
+    <prism:number>3</prism:number>
+    <prism:startingPage>e453</prism:startingPage>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546271">
+    <title>Convergent genomic signatures of domestication in sheep and goats</title>
+    <link>http://www.citeulike.org/group/10570/article/14546271</link>
+    <description>&lt;i&gt;Nature Communications, Vol. 9, No. 1. (6 March 2018), doi:10.1038/s41467-018-03206-y&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Florian Alberto, Frédéric Boyer, Pablo Orozco-terWengel, Ian Streeter, Bertrand Servin, Pierre de Villemereuil, Badr Benjelloun, Pablo Librado, Filippo Biscarini, Licia Colli, Mario Barbato, Wahid Zamani, Adriana Alberti, Stefan Engelen, Alessandra Stella, Stéphane Joost, Paolo Ajmone-Marsan, Riccardo Negrini, Ludovic Orlando, Hamid Rezaei, Saeid Naderi, Laura Clarke, Paul Flicek, Patrick Wincker, Eric Coissac, James Kijas, Gwenola Tosser-Klopp, Abdelkader Chikhi, Michael Bruford, Pierre Taberlet, François Pompanon&lt;/i&gt;</description>
+    <dc:title>Convergent genomic signatures of domestication in sheep and goats</dc:title>
+
+    <dc:creator>Florian Alberto</dc:creator>
+    <dc:creator>Frédéric Boyer</dc:creator>
+    <dc:creator>Pablo Orozco-terWengel</dc:creator>
+    <dc:creator>Ian Streeter</dc:creator>
+    <dc:creator>Bertrand Servin</dc:creator>
+    <dc:creator>Pierre de Villemereuil</dc:creator>
+    <dc:creator>Badr Benjelloun</dc:creator>
+    <dc:creator>Pablo Librado</dc:creator>
+    <dc:creator>Filippo Biscarini</dc:creator>
+    <dc:creator>Licia Colli</dc:creator>
+    <dc:creator>Mario Barbato</dc:creator>
+    <dc:creator>Wahid Zamani</dc:creator>
+    <dc:creator>Adriana Alberti</dc:creator>
+    <dc:creator>Stefan Engelen</dc:creator>
+    <dc:creator>Alessandra Stella</dc:creator>
+    <dc:creator>Stéphane Joost</dc:creator>
+    <dc:creator>Paolo Ajmone-Marsan</dc:creator>
+    <dc:creator>Riccardo Negrini</dc:creator>
+    <dc:creator>Ludovic Orlando</dc:creator>
+    <dc:creator>Hamid Rezaei</dc:creator>
+    <dc:creator>Saeid Naderi</dc:creator>
+    <dc:creator>Laura Clarke</dc:creator>
+    <dc:creator>Paul Flicek</dc:creator>
+    <dc:creator>Patrick Wincker</dc:creator>
+    <dc:creator>Eric Coissac</dc:creator>
+    <dc:creator>James Kijas</dc:creator>
+    <dc:creator>Gwenola Tosser-Klopp</dc:creator>
+    <dc:creator>Abdelkader Chikhi</dc:creator>
+    <dc:creator>Michael Bruford</dc:creator>
+    <dc:creator>Pierre Taberlet</dc:creator>
+    <dc:creator>François Pompanon</dc:creator>
+    <dc:identifier>doi:10.1038/s41467-018-03206-y</dc:identifier>
+    <dc:source>Nature Communications, Vol. 9, No. 1. (6 March 2018), doi:10.1038/s41467-018-03206-y</dc:source>
+    <dc:date>2018-03-08T18:41:12-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Nature Communications</prism:publicationName>
+    <prism:issn>2041-1723</prism:issn>
+    <prism:volume>9</prism:volume>
+    <prism:number>1</prism:number>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546191">
+    <title>Novel read density distribution score shows possible aligner artefacts, when mapping a single chromosome</title>
+    <link>http://www.citeulike.org/group/10570/article/14546191</link>
+    <description>&lt;i&gt;BMC Genomics, Vol. 19, No. S3. (9 February 2018), doi:10.1186/s12864-018-4475-6&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Fedor Naumenko, Irina Abnizova, Nathan Beka, Mikhail Genaev, Yuriy Orlov&lt;/i&gt;</description>
+    <dc:title>Novel read density distribution score shows possible aligner artefacts, when mapping a single chromosome</dc:title>
+
+    <dc:creator>Fedor Naumenko</dc:creator>
+    <dc:creator>Irina Abnizova</dc:creator>
+    <dc:creator>Nathan Beka</dc:creator>
+    <dc:creator>Mikhail Genaev</dc:creator>
+    <dc:creator>Yuriy Orlov</dc:creator>
+    <dc:identifier>doi:10.1186/s12864-018-4475-6</dc:identifier>
+    <dc:source>BMC Genomics, Vol. 19, No. S3. (9 February 2018), doi:10.1186/s12864-018-4475-6</dc:source>
+    <dc:date>2018-03-08T14:52:19-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>BMC Genomics</prism:publicationName>
+    <prism:issn>1471-2164</prism:issn>
+    <prism:volume>19</prism:volume>
+    <prism:number>S3</prism:number>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546190">
+    <title>Myosin 10 is involved in murine pigmentation</title>
+    <link>http://www.citeulike.org/group/10570/article/14546190</link>
+    <description>&lt;i&gt;Experimental Dermatology (06 March 2018), doi:10.1111/exd.13528&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Kifayathullah Liakath-Ali, Valerie Vancollie, Inês Sequeira, Christopher Lelliott, Fiona Watt&lt;/i&gt;</description>
+    <dc:title>Myosin 10 is involved in murine pigmentation</dc:title>
+
+    <dc:creator>Kifayathullah Liakath-Ali</dc:creator>
+    <dc:creator>Valerie Vancollie</dc:creator>
+    <dc:creator>Inês Sequeira</dc:creator>
+    <dc:creator>Christopher Lelliott</dc:creator>
+    <dc:creator>Fiona Watt</dc:creator>
+    <dc:identifier>doi:10.1111/exd.13528</dc:identifier>
+    <dc:source>Experimental Dermatology (06 March 2018), doi:10.1111/exd.13528</dc:source>
+    <dc:date>2018-03-08T14:51:30-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Experimental Dermatology</prism:publicationName>
+    <prism:issn>09066705</prism:issn>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546189">
+    <title>Molecular Genetic Analysis Subdivided by Adversity Exposure Suggests Etiologic Heterogeneity in Major Depression</title>
+    <link>http://www.citeulike.org/group/10570/article/14546189</link>
+    <description>&lt;i&gt;American Journal of Psychiatry (02 March 2018), appi.ajp.2017.1, doi:10.1176/appi.ajp.2017.17060621&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Roseann Peterson, Na Cai, Andy Dahl, Tim Bigdeli, Alexis Edwards, Bradley Webb, Silviu-Alin Bacanu, Noah Zaitlen, Jonathan Flint, Kenneth Kendler&lt;/i&gt;</description>
+    <dc:title>Molecular Genetic Analysis Subdivided by Adversity Exposure Suggests Etiologic Heterogeneity in Major Depression</dc:title>
+
+    <dc:creator>Roseann Peterson</dc:creator>
+    <dc:creator>Na Cai</dc:creator>
+    <dc:creator>Andy Dahl</dc:creator>
+    <dc:creator>Tim Bigdeli</dc:creator>
+    <dc:creator>Alexis Edwards</dc:creator>
+    <dc:creator>Bradley Webb</dc:creator>
+    <dc:creator>Silviu-Alin Bacanu</dc:creator>
+    <dc:creator>Noah Zaitlen</dc:creator>
+    <dc:creator>Jonathan Flint</dc:creator>
+    <dc:creator>Kenneth Kendler</dc:creator>
+    <dc:identifier>doi:10.1176/appi.ajp.2017.17060621</dc:identifier>
+    <dc:source>American Journal of Psychiatry (02 March 2018), appi.ajp.2017.1, doi:10.1176/appi.ajp.2017.17060621</dc:source>
+    <dc:date>2018-03-08T14:50:17-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>American Journal of Psychiatry</prism:publicationName>
+    <prism:issn>0002-953X</prism:issn>
+    <prism:startingPage>appi.ajp.2017.1</prism:startingPage>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546187">
+    <title>Genomic survey of Clostridium difficile reservoirs in the East of England implicates environmental contamination of wastewater treatment plants by clinical lineages</title>
+    <link>http://www.citeulike.org/group/10570/article/14546187</link>
+    <description>&lt;i&gt;Microbial Genomics (02 March 2018), doi:10.1099/mgen.0.000162&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Danesh Moradigaravand, Theodore Gouliouris, Catherine Ludden, Sandra Reuter, Dorota Jamrozy, Beth Blane, Plamena Naydenova, Kim Judge, Aliyu, Hadjirin, Holmes, Estée Török, Brown, Julian Parkhill, Sharon Peacock&lt;/i&gt;</description>
+    <dc:title>Genomic survey of Clostridium difficile reservoirs in the East of England implicates environmental contamination of wastewater treatment plants by clinical lineages</dc:title>
+
+    <dc:creator>Danesh Moradigaravand</dc:creator>
+    <dc:creator>Theodore Gouliouris</dc:creator>
+    <dc:creator>Catherine Ludden</dc:creator>
+    <dc:creator>Sandra Reuter</dc:creator>
+    <dc:creator>Dorota Jamrozy</dc:creator>
+    <dc:creator>Beth Blane</dc:creator>
+    <dc:creator>Plamena Naydenova</dc:creator>
+    <dc:creator>Kim Judge</dc:creator>
+    <dc:creator>Aliyu</dc:creator>
+    <dc:creator>Hadjirin</dc:creator>
+    <dc:creator>Holmes</dc:creator>
+    <dc:creator>Estée Török</dc:creator>
+    <dc:creator>Brown</dc:creator>
+    <dc:creator>Julian Parkhill</dc:creator>
+    <dc:creator>Sharon Peacock</dc:creator>
+    <dc:identifier>doi:10.1099/mgen.0.000162</dc:identifier>
+    <dc:source>Microbial Genomics (02 March 2018), doi:10.1099/mgen.0.000162</dc:source>
+    <dc:date>2018-03-08T14:49:33-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Microbial Genomics</prism:publicationName>
+    <prism:issn>2057-5858</prism:issn>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546186">
+    <title>Genetic diversity of Cryptosporidium hominis in a Bangladeshi community as revealed by whole genome sequencing</title>
+    <link>http://www.citeulike.org/group/10570/article/14546186</link>
+    <description>&lt;i&gt;The Journal of Infectious Diseases (05 March 2018), doi:10.1093/infdis/jiy121&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Carol Gilchrist, James Cotton, Cecelia Burkey, Tuhinur Arju, Allissia Gilmartin, Ye Lin, Emtiaz Ahmed, Kevin Steiner, Masud Alam, Shahnawaz Ahmed, Guy Robinson, Sultan Zaman, Mamun Kabir, Mandy Sanders, Rachel Chalmers, Tahmeed Ahmed, Jennie Ma, Rashidul Haque, ASG Faruque, Matthew Berriman, William Petri&lt;/i&gt;</description>
+    <dc:title>Genetic diversity of Cryptosporidium hominis in a Bangladeshi community as revealed by whole genome sequencing</dc:title>
+
+    <dc:creator>Carol Gilchrist</dc:creator>
+    <dc:creator>James Cotton</dc:creator>
+    <dc:creator>Cecelia Burkey</dc:creator>
+    <dc:creator>Tuhinur Arju</dc:creator>
+    <dc:creator>Allissia Gilmartin</dc:creator>
+    <dc:creator>Ye Lin</dc:creator>
+    <dc:creator>Emtiaz Ahmed</dc:creator>
+    <dc:creator>Kevin Steiner</dc:creator>
+    <dc:creator>Masud Alam</dc:creator>
+    <dc:creator>Shahnawaz Ahmed</dc:creator>
+    <dc:creator>Guy Robinson</dc:creator>
+    <dc:creator>Sultan Zaman</dc:creator>
+    <dc:creator>Mamun Kabir</dc:creator>
+    <dc:creator>Mandy Sanders</dc:creator>
+    <dc:creator>Rachel Chalmers</dc:creator>
+    <dc:creator>Tahmeed Ahmed</dc:creator>
+    <dc:creator>Jennie Ma</dc:creator>
+    <dc:creator>Rashidul Haque</dc:creator>
+    <dc:creator>ASG Faruque</dc:creator>
+    <dc:creator>Matthew Berriman</dc:creator>
+    <dc:creator>William Petri</dc:creator>
+    <dc:identifier>doi:10.1093/infdis/jiy121</dc:identifier>
+    <dc:source>The Journal of Infectious Diseases (05 March 2018), doi:10.1093/infdis/jiy121</dc:source>
+    <dc:date>2018-03-08T14:48:51-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>The Journal of Infectious Diseases</prism:publicationName>
+    <prism:issn>0022-1899</prism:issn>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546182">
+    <title>Conditional Manipulation of Gene Function in Human Cells with Optimized Inducible shRNA</title>
+    <link>http://www.citeulike.org/group/10570/article/14546182</link>
+    <description>&lt;i&gt;In Current Protocols in Stem Cell Biology (15 June 2007), pp. 5C.4.1-5C.4.48, doi:10.1002/cpsc.45&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Alessandro Bertero, Loukia Yiangou, Stephanie Brown, Daniel Ortmann, Matthias Pawlowski, Ludovic Vallier&lt;/i&gt;</description>
+    <dc:title>Conditional Manipulation of Gene Function in Human Cells with Optimized Inducible shRNA</dc:title>
+
+    <dc:creator>Alessandro Bertero</dc:creator>
+    <dc:creator>Loukia Yiangou</dc:creator>
+    <dc:creator>Stephanie Brown</dc:creator>
+    <dc:creator>Daniel Ortmann</dc:creator>
+    <dc:creator>Matthias Pawlowski</dc:creator>
+    <dc:creator>Ludovic Vallier</dc:creator>
+    <dc:identifier>doi:10.1002/cpsc.45</dc:identifier>
+    <dc:source>In Current Protocols in Stem Cell Biology (15 June 2007), pp. 5C.4.1-5C.4.48, doi:10.1002/cpsc.45</dc:source>
+    <dc:date>2018-03-08T14:47:57-00:00</dc:date>
+    <prism:publicationYear>2007</prism:publicationYear>
+    <prism:startingPage>5C.4.1</prism:startingPage>
+    <prism:endingPage>5C.4.48</prism:endingPage>
+    <prism:publisher>John Wiley &#38; Sons, Inc.</prism:publisher>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546181">
+    <title>Complete avian malaria parasite genomes reveal features associated with lineage specific evolution in birds and mammals</title>
+    <link>http://www.citeulike.org/group/10570/article/14546181</link>
+    <description>&lt;i&gt;Genome Research (02 March 2018), gr.218123.116, doi:10.1101/gr.218123.116&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Ulrike Böhme, Thomas Otto, James Cotton, Sascha Steinbiss, Mandy Sanders, Samuel Oyola, Antoine Nicot, Sylvain Gandon, Kailash Patra, Colin Herd, Ellen Bushell, Katarzyna Modrzynska, Oliver Billker, Joseph Vinetz, Ana Rivero, Chris Newbold, Matthew Berriman&lt;/i&gt;</description>
+    <dc:title>Complete avian malaria parasite genomes reveal features associated with lineage specific evolution in birds and mammals</dc:title>
+
+    <dc:creator>Ulrike Böhme</dc:creator>
+    <dc:creator>Thomas Otto</dc:creator>
+    <dc:creator>James Cotton</dc:creator>
+    <dc:creator>Sascha Steinbiss</dc:creator>
+    <dc:creator>Mandy Sanders</dc:creator>
+    <dc:creator>Samuel Oyola</dc:creator>
+    <dc:creator>Antoine Nicot</dc:creator>
+    <dc:creator>Sylvain Gandon</dc:creator>
+    <dc:creator>Kailash Patra</dc:creator>
+    <dc:creator>Colin Herd</dc:creator>
+    <dc:creator>Ellen Bushell</dc:creator>
+    <dc:creator>Katarzyna Modrzynska</dc:creator>
+    <dc:creator>Oliver Billker</dc:creator>
+    <dc:creator>Joseph Vinetz</dc:creator>
+    <dc:creator>Ana Rivero</dc:creator>
+    <dc:creator>Chris Newbold</dc:creator>
+    <dc:creator>Matthew Berriman</dc:creator>
+    <dc:identifier>doi:10.1101/gr.218123.116</dc:identifier>
+    <dc:source>Genome Research (02 March 2018), gr.218123.116, doi:10.1101/gr.218123.116</dc:source>
+    <dc:date>2018-03-08T14:40:27-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Genome Research</prism:publicationName>
+    <prism:issn>1088-9051</prism:issn>
+    <prism:startingPage>gr.218123.116</prism:startingPage>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14546180">
+    <title>A novel prophage identified in strains from Salmonella enterica serovar Enteritidis is a phylogenetic signature of the lineage ST-1974</title>
+    <link>http://www.citeulike.org/group/10570/article/14546180</link>
+    <description>&lt;i&gt;Microbial Genomics (06 March 2018), doi:10.1099/mgen.0.000161&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Bruno D&#39;Alessandro, Victoria Pérez Escanda, Lucía Balestrazzi, Andrés Iriarte, Derek Pickard, Lucía Yim, José Chabalgoity, Laura Betancor&lt;/i&gt;</description>
+    <dc:title>A novel prophage identified in strains from Salmonella enterica serovar Enteritidis is a phylogenetic signature of the lineage ST-1974</dc:title>
+
+    <dc:creator>Bruno D'Alessandro</dc:creator>
+    <dc:creator>Victoria Pérez Escanda</dc:creator>
+    <dc:creator>Lucía Balestrazzi</dc:creator>
+    <dc:creator>Andrés Iriarte</dc:creator>
+    <dc:creator>Derek Pickard</dc:creator>
+    <dc:creator>Lucía Yim</dc:creator>
+    <dc:creator>José Chabalgoity</dc:creator>
+    <dc:creator>Laura Betancor</dc:creator>
+    <dc:identifier>doi:10.1099/mgen.0.000161</dc:identifier>
+    <dc:source>Microbial Genomics (06 March 2018), doi:10.1099/mgen.0.000161</dc:source>
+    <dc:date>2018-03-08T14:39:46-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Microbial Genomics</prism:publicationName>
+    <prism:issn>2057-5858</prism:issn>
+    <prism:category>pathogens</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14545802">
+    <title>Comparison of whole-genome bisulfite sequencing library preparation strategies identifies sources of biases affecting DNA methylation data</title>
+    <link>http://www.citeulike.org/group/10570/article/14545802</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Nelly Olova, Felix Krueger, Simon Andrews, David Oxley, Rebecca Berrens, Miguel Branco, Wolf Reik&lt;/i&gt;</description>
+    <dc:title>Comparison of whole-genome bisulfite sequencing library preparation strategies identifies sources of biases affecting DNA methylation data</dc:title>
+
+    <dc:creator>Nelly Olova</dc:creator>
+    <dc:creator>Felix Krueger</dc:creator>
+    <dc:creator>Simon Andrews</dc:creator>
+    <dc:creator>David Oxley</dc:creator>
+    <dc:creator>Rebecca Berrens</dc:creator>
+    <dc:creator>Miguel Branco</dc:creator>
+    <dc:creator>Wolf Reik</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-07T13:10:11-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>cell</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14545801">
+    <title>CELLector: Genomics Guided Selection of Cancer in vitro Models</title>
+    <link>http://www.citeulike.org/group/10570/article/14545801</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Hanna Najgebauer, Mi Yang, Hayley Francies, Euan Stronach, Mathew Garnett, Julio Saez-Rodriguez, Francesco Iorio&lt;/i&gt;</description>
+    <dc:title>CELLector: Genomics Guided Selection of Cancer in vitro Models</dc:title>
+
+    <dc:creator>Hanna Najgebauer</dc:creator>
+    <dc:creator>Mi Yang</dc:creator>
+    <dc:creator>Hayley Francies</dc:creator>
+    <dc:creator>Euan Stronach</dc:creator>
+    <dc:creator>Mathew Garnett</dc:creator>
+    <dc:creator>Julio Saez-Rodriguez</dc:creator>
+    <dc:creator>Francesco Iorio</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-07T13:08:27-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>cancer</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14544530">
+    <title>Genomic evidence of speciation reversal in ravens</title>
+    <link>http://www.citeulike.org/group/10570/article/14544530</link>
+    <description>&lt;i&gt;Nature Communications, Vol. 9, No. 1. (2 March 2018), doi:10.1038/s41467-018-03294-w&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Anna Kearns, Marco Restani, Ildiko Szabo, Audun Schrøder-Nielsen, Jin Kim, Hayley Richardson, John Marzluff, Robert Fleischer, Arild Johnsen, Kevin Omland&lt;/i&gt;</description>
+    <dc:title>Genomic evidence of speciation reversal in ravens</dc:title>
+
+    <dc:creator>Anna Kearns</dc:creator>
+    <dc:creator>Marco Restani</dc:creator>
+    <dc:creator>Ildiko Szabo</dc:creator>
+    <dc:creator>Audun Schrøder-Nielsen</dc:creator>
+    <dc:creator>Jin Kim</dc:creator>
+    <dc:creator>Hayley Richardson</dc:creator>
+    <dc:creator>John Marzluff</dc:creator>
+    <dc:creator>Robert Fleischer</dc:creator>
+    <dc:creator>Arild Johnsen</dc:creator>
+    <dc:creator>Kevin Omland</dc:creator>
+    <dc:identifier>doi:10.1038/s41467-018-03294-w</dc:identifier>
+    <dc:source>Nature Communications, Vol. 9, No. 1. (2 March 2018), doi:10.1038/s41467-018-03294-w</dc:source>
+    <dc:date>2018-03-05T14:47:10-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Nature Communications</prism:publicationName>
+    <prism:issn>2041-1723</prism:issn>
+    <prism:volume>9</prism:volume>
+    <prism:number>1</prism:number>
+    <prism:category>no-tag</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14542923">
+    <title>Quantitative analysis of population-scale family trees with millions of relatives</title>
+    <link>http://www.citeulike.org/group/10570/article/14542923</link>
+    <description>&lt;i&gt;Science (01 March 2018), eaam9309, doi:10.1126/science.aam9309&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Joanna Kaplanis, Assaf Gordon, Tal Shor, Omer Weissbrod, Dan Geiger, Mary Wahl, Michael Gershovits, Barak Markus, Mona Sheikh, Melissa Gymrek, Gaurav Bhatia, Daniel MacArthur, Alkes Price, Yaniv Erlich&lt;/i&gt;</description>
+    <dc:title>Quantitative analysis of population-scale family trees with millions of relatives</dc:title>
+
+    <dc:creator>Joanna Kaplanis</dc:creator>
+    <dc:creator>Assaf Gordon</dc:creator>
+    <dc:creator>Tal Shor</dc:creator>
+    <dc:creator>Omer Weissbrod</dc:creator>
+    <dc:creator>Dan Geiger</dc:creator>
+    <dc:creator>Mary Wahl</dc:creator>
+    <dc:creator>Michael Gershovits</dc:creator>
+    <dc:creator>Barak Markus</dc:creator>
+    <dc:creator>Mona Sheikh</dc:creator>
+    <dc:creator>Melissa Gymrek</dc:creator>
+    <dc:creator>Gaurav Bhatia</dc:creator>
+    <dc:creator>Daniel MacArthur</dc:creator>
+    <dc:creator>Alkes Price</dc:creator>
+    <dc:creator>Yaniv Erlich</dc:creator>
+    <dc:identifier>doi:10.1126/science.aam9309</dc:identifier>
+    <dc:source>Science (01 March 2018), eaam9309, doi:10.1126/science.aam9309</dc:source>
+    <dc:date>2018-03-05T14:44:28-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Science</prism:publicationName>
+    <prism:issn>1095-9203</prism:issn>
+    <prism:startingPage>eaam9309</prism:startingPage>
+    <prism:publisher>American Association for the Advancement of Science</prism:publisher>
+    <prism:category>human</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14542964">
+    <title>CONSTRUCTION OF WHOLE GENOMES FROM SCAFFOLDS USING SINGLE CELL STRAND-SEQ DATA</title>
+    <link>http://www.citeulike.org/group/10570/article/14542964</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Mark Hills, Ester Falconer, Kieran Neil, Ashley Sanders, Kerstin Howe, Victor Guryev, Peter Lansdorp&lt;/i&gt;</description>
+    <dc:title>CONSTRUCTION OF WHOLE GENOMES FROM SCAFFOLDS USING SINGLE CELL STRAND-SEQ DATA</dc:title>
+
+    <dc:creator>Mark Hills</dc:creator>
+    <dc:creator>Ester Falconer</dc:creator>
+    <dc:creator>Kieran Neil</dc:creator>
+    <dc:creator>Ashley Sanders</dc:creator>
+    <dc:creator>Kerstin Howe</dc:creator>
+    <dc:creator>Victor Guryev</dc:creator>
+    <dc:creator>Peter Lansdorp</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-02T11:17:00-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14542962">
+    <title>ProxECAT: Proxy External Controls Association Test. A new case-control gene region association test using allele frequencies from public controls</title>
+    <link>http://www.citeulike.org/group/10570/article/14542962</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Audrey Hendricks, Stephen Billups, Hamish Pike, Sadaf Farooqi, Eleftheria Zeggini, Inês Barroso, Josèe Dupuis&lt;/i&gt;</description>
+    <dc:title>ProxECAT: Proxy External Controls Association Test. A new case-control gene region association test using allele frequencies from public controls</dc:title>
+
+    <dc:creator>Audrey Hendricks</dc:creator>
+    <dc:creator>Stephen Billups</dc:creator>
+    <dc:creator>Hamish Pike</dc:creator>
+    <dc:creator>Sadaf Farooqi</dc:creator>
+    <dc:creator>Eleftheria Zeggini</dc:creator>
+    <dc:creator>Inês Barroso</dc:creator>
+    <dc:creator>Josèe Dupuis</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-02T11:08:05-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>human</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14542960">
+    <title>A linear mixed model approach to study multivariate gene-environment interactions</title>
+    <link>http://www.citeulike.org/group/10570/article/14542960</link>
+    <description>&lt;i&gt;bioRxiv (2018)&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Rachel Moore, Francesco Casale, Marc Bonder, Danilo Horta, Lude Franke, Inês Barroso, Oliver Stegle&lt;/i&gt;</description>
+    <dc:title>A linear mixed model approach to study multivariate gene-environment interactions</dc:title>
+
+    <dc:creator>Rachel Moore</dc:creator>
+    <dc:creator>Francesco Casale</dc:creator>
+    <dc:creator>Marc Bonder</dc:creator>
+    <dc:creator>Danilo Horta</dc:creator>
+    <dc:creator>Lude Franke</dc:creator>
+    <dc:creator>Inês Barroso</dc:creator>
+    <dc:creator>Oliver Stegle</dc:creator>
+    <dc:source>bioRxiv (2018)</dc:source>
+    <dc:date>2018-03-02T11:00:54-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>bioRxiv</prism:publicationName>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14542939">
+    <title>Exponential scaling of single-cell RNA-seq in the past decade</title>
+    <link>http://www.citeulike.org/group/10570/article/14542939</link>
+    <description>&lt;i&gt;Nature Protocols, Vol. 13, No. 4. (1 March 2018), pp. 599-604, doi:10.1038/nprot.2017.149&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Valentine Svensson, Roser Vento-Tormo, Sarah Teichmann&lt;/i&gt;</description>
+    <dc:title>Exponential scaling of single-cell RNA-seq in the past decade</dc:title>
+
+    <dc:creator>Valentine Svensson</dc:creator>
+    <dc:creator>Roser Vento-Tormo</dc:creator>
+    <dc:creator>Sarah Teichmann</dc:creator>
+    <dc:identifier>doi:10.1038/nprot.2017.149</dc:identifier>
+    <dc:source>Nature Protocols, Vol. 13, No. 4. (1 March 2018), pp. 599-604, doi:10.1038/nprot.2017.149</dc:source>
+    <dc:date>2018-03-02T09:22:50-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>Nature Protocols</prism:publicationName>
+    <prism:issn>1754-2189</prism:issn>
+    <prism:volume>13</prism:volume>
+    <prism:number>4</prism:number>
+    <prism:startingPage>599</prism:startingPage>
+    <prism:endingPage>604</prism:endingPage>
+    <prism:category>cell</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+<item rdf:about="http://www.citeulike.org/group/10570/article/14542937">
+    <title>Shared activity patterns arising at genetic susceptibility loci reveal underlying genomic and cellular architecture of human disease</title>
+    <link>http://www.citeulike.org/group/10570/article/14542937</link>
+    <description>&lt;i&gt;PLOS Computational Biology, Vol. 14, No. 3. (1 March 2018), e1005934, doi:10.1371/journal.pcbi.1005934&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Author summary We discover that genetic variants associated with specific diseases have more in common with each other than we have previously seen. Specifically, variants associated with the same disease tend to be in parts of the genome that are turned on or off in similar complex patterns across many different cell types. We discover that genetic variants associated with specific diseases are found within regulatory elements that share patterns of expression. Specifically, variants associated with the same disease tend to be in parts of the genome that are turned on or off together in similar complex patterns across many different cell types. Knowing this helps us to find new variants associated with some diseases, and to better understand the genetic causes of other diseases. Furthermore, we discover that the genetic causes of inflammatory bowel disease fall into two distinct patterns, indicating that two aetiologically-distinct endotypes of this condition exist. Unlike other methods to learn about disease mechanisms from genetic information, our approach does not require any knowledge or assumptions about the genes themselves–it depends only on the patterns in which parts of the genome are activated in different cell types.&lt;br /&gt;&lt;i&gt;Kenneth Baillie, Andrew Bretherick, Christopher Haley, Sara Clohisey, Alan Gray, Lucile Neyton, Jeffrey Barrett, Eli Stahl, Albert Tenesa, Robin Andersson, Ben Brown, Geoffrey Faulkner, Marina Lizio, Ulf Schaefer, Carsten Daub, Masayoshi Itoh, Naoto Kondo, Timo Lassmann, Jun Kawai, IIBDGC Consortium, Damian Mole, Vladimir Bajic, Peter Heutink, Michael Rehli, Hideya Kawaji, Albin Sandelin, Harukazu Suzuki, Jack Satsangi, Christine Wells, Nir Hacohen, Thomas Freeman, Yoshihide Hayashizaki, Piero Carninci, Alistair Forrest, David Hume&lt;/i&gt;</description>
+    <dc:title>Shared activity patterns arising at genetic susceptibility loci reveal underlying genomic and cellular architecture of human disease</dc:title>
+
+    <dc:creator>Kenneth Baillie</dc:creator>
+    <dc:creator>Andrew Bretherick</dc:creator>
+    <dc:creator>Christopher Haley</dc:creator>
+    <dc:creator>Sara Clohisey</dc:creator>
+    <dc:creator>Alan Gray</dc:creator>
+    <dc:creator>Lucile Neyton</dc:creator>
+    <dc:creator>Jeffrey Barrett</dc:creator>
+    <dc:creator>Eli Stahl</dc:creator>
+    <dc:creator>Albert Tenesa</dc:creator>
+    <dc:creator>Robin Andersson</dc:creator>
+    <dc:creator>Ben Brown</dc:creator>
+    <dc:creator>Geoffrey Faulkner</dc:creator>
+    <dc:creator>Marina Lizio</dc:creator>
+    <dc:creator>Ulf Schaefer</dc:creator>
+    <dc:creator>Carsten Daub</dc:creator>
+    <dc:creator>Masayoshi Itoh</dc:creator>
+    <dc:creator>Naoto Kondo</dc:creator>
+    <dc:creator>Timo Lassmann</dc:creator>
+    <dc:creator>Jun Kawai</dc:creator>
+    <dc:creator>IIBDGC Consortium</dc:creator>
+    <dc:creator>Damian Mole</dc:creator>
+    <dc:creator>Vladimir Bajic</dc:creator>
+    <dc:creator>Peter Heutink</dc:creator>
+    <dc:creator>Michael Rehli</dc:creator>
+    <dc:creator>Hideya Kawaji</dc:creator>
+    <dc:creator>Albin Sandelin</dc:creator>
+    <dc:creator>Harukazu Suzuki</dc:creator>
+    <dc:creator>Jack Satsangi</dc:creator>
+    <dc:creator>Christine Wells</dc:creator>
+    <dc:creator>Nir Hacohen</dc:creator>
+    <dc:creator>Thomas Freeman</dc:creator>
+    <dc:creator>Yoshihide Hayashizaki</dc:creator>
+    <dc:creator>Piero Carninci</dc:creator>
+    <dc:creator>Alistair Forrest</dc:creator>
+    <dc:creator>David Hume</dc:creator>
+    <dc:identifier>doi:10.1371/journal.pcbi.1005934</dc:identifier>
+    <dc:source>PLOS Computational Biology, Vol. 14, No. 3. (1 March 2018), e1005934, doi:10.1371/journal.pcbi.1005934</dc:source>
+    <dc:date>2018-03-02T09:17:24-00:00</dc:date>
+    <prism:publicationYear>2018</prism:publicationYear>
+    <prism:publicationName>PLOS Computational Biology</prism:publicationName>
+    <prism:volume>14</prism:volume>
+    <prism:number>3</prism:number>
+    <prism:startingPage>e1005934</prism:startingPage>
+    <prism:publisher>Public Library of Science</prism:publisher>
+    <prism:category>informatics</prism:category>
+    <prism:category>staffpaper</prism:category>
+</item>
+
+
+
+</rdf:RDF>
+
