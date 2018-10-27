@@ -109,7 +109,7 @@ if (-s "header.txt"){
 }
 my $newstuff = 0;
 
-my $bioinfsection, my $cancersection, my $humsection, my $infectionsection, my $cellsection, my $othersection;
+my $bioinfsection, my $cancersection, my $humsection, my $parasitessection, my $cellsection, my $othersection;
 foreach my $item ( @items ) {
   my $date = $datetimeformatter->parse_datetime($dates{$item});
   if ($date > $lastdate){
@@ -120,17 +120,17 @@ foreach my $item ( @items ) {
       }
 
       if ($tags{$item} =~ /bioinformatics/i || $tags{$item} =~ /annotation/i || $tags{$item} =~ /informatics/i){
-	  $bioinfsection .= $outstring;
+          $bioinfsection .= $outstring;
       }elsif ($tags{$item} =~ /cancer/i){
-	  $cancersection .= $outstring;
+          $cancersection .= $outstring;
       }elsif ($tags{$item} =~ /humgen/i || $tags{$item} =~ /human/i){
-	  $humsection .= $outstring;
-      }elsif ($tags{$item} =~ /pathogens/i || $tags{$item} =~ /pathogen/i || $tags{$item} =~ /malaria/i){
-	  $infectionsection .= $outstring;
+          $humsection .= $outstring;
+      }elsif ($tags{$item} =~ /pathogens/i || $tags{$item} =~ /pathogen/i || $tags{$item} =~ /malaria/i || $tags{$item} =~ /parasites/i || $tags{$item} =~ /parasite/i){
+          $parasitessection .= $outstring;
       }elsif ($tags{$item} =~ /cell/i || $tags{$item} =~ /cells/i){
-	  $cellsection .= $outstring;
+          $cellsection .= $outstring;
       }else{
-	  $othersection .= $outstring;
+          $othersection .= $outstring;
       }
   }
 }
@@ -138,7 +138,7 @@ foreach my $item ( @items ) {
 $message .= "*Informatics*\n----------------\n$bioinfsection";
 $message .= "*Cancer, aging, somatic mutation*\n----------------\n$cancersection";
 $message .= "*Human genetics*\n----------------\n$humsection";
-$message .= "*Infection genomics*\n----------------\n$infectionsection";
+$message .= "*Parasites and microbes*\n----------------\n$parasitessection";
 $message .= "*Cellular genetics*\n----------------\n$cellsection";
 $message .= "*Other*\n----------------\n$othersection";
 
